@@ -1,0 +1,950 @@
+source prefix	source identifier	source name	relation	target prefix	target identifier	target name	type	source
+kegg.pathway	hsa01210	2-Oxocarboxylic acid metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa04152	AMPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1403	AMP-activated Protein Kinase (AMPK) Signaling	manual	compath
+wikipathways	WP3934	Leptin and adiponectin	partOf	kegg.pathway	WP3934	None	manual	compath
+kegg.pathway	hsa00250	Alanine, aspartate and glutamate metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	kegg.pathway	WP106	None	manual	compath
+kegg.pathway	hsa05034	Alcoholism - Homo sapiens (human)	partOf	wikipathways	WP2636	Common Pathways Underlying Drug Addiction	manual	compath
+kegg.pathway	hsa04925	Aldosterone synthesis and secretion - Homo sapiens (human)	partOf	wikipathways	WP237	None	manual	compath
+kegg.pathway	hsa05330	Allograft rejection - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2328	Allograft Rejection	manual	compath
+kegg.pathway	hsa05010	Alzheimer disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2059	Alzheimers Disease	manual	compath
+kegg.pathway	hsa05031	Amphetamine addiction - Homo sapiens (human)	partOf	wikipathways	WP2636	Common Pathways Underlying Drug Addiction	manual	compath
+kegg.pathway	hsa05014	Amyotrophic lateral sclerosis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2447	Amyotrophic lateral sclerosis (ALS)	manual	compath
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP254	Apoptosis	manual	compath
+wikipathways	WP384	Apoptosis Modulation by HSP70	partOf	kegg.pathway	WP384	None	manual	compath
+wikipathways	WP2507	Nanomaterial induced apoptosis	partOf	kegg.pathway	WP2507	None	manual	compath
+wikipathways	WP1772	Apoptosis Modulation and Signaling	partOf	kegg.pathway	WP1772	None	manual	compath
+wikipathways	WP2507	Nanomaterial induced apoptosis	partOf	kegg.pathway	WP2507	None	manual	compath
+wikipathways	WP384	Apoptosis Modulation by HSP70	partOf	kegg.pathway	WP384	None	manual	compath
+wikipathways	WP1772	Apoptosis Modulation and Signaling	partOf	kegg.pathway	WP1772	None	manual	compath
+kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)	partOf	wikipathways	WP497	Urea cycle and metabolism of amino groups	manual	compath
+kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)	partOf	wikipathways	WP497	Urea cycle and metabolism of amino groups	manual	compath
+kegg.pathway	hsa05412	Arrhythmogenic right ventricular cardiomyopathy - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2118	Arrhythmogenic Right Ventricular Cardiomyopathy	manual	compath
+kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP23	B Cell Receptor Signaling Pathway	manual	compath
+wikipathways	WP405	Eukaryotic Transcription Initiation	partOf	kegg.pathway	WP405	None	manual	compath
+wikipathways	WP2289	Drug Induction of Bile Acid Pathway	partOf	kegg.pathway	WP2289	None	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	kegg.pathway	WP106	None	manual	compath
+wikipathways	WP497	Urea cycle and metabolism of amino groups	partOf	kegg.pathway	WP497	None	manual	compath
+kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)	partOf	wikipathways	WP357	Fatty Acid Biosynthesis	manual	compath
+kegg.pathway	hsa05219	Bladder cancer - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2828	Bladder Cancer	manual	compath
+kegg.pathway	hsa00232	Caffeine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3633	Caffeine and Theobromine metabolism	manual	compath
+wikipathways	WP1946	Cori Cycle	partOf	kegg.pathway	WP1946	None	manual	compath
+wikipathways	WP134	Pentose Phosphate Metabolism	partOf	kegg.pathway	WP134	None	manual	compath
+wikipathways	WP534	Glycolysis and Gluconeogenesis	partOf	kegg.pathway	WP534	None	manual	compath
+wikipathways	WP78	TCA Cycle (aka Krebs or citric acid cycle)	partOf	kegg.pathway	WP78	None	manual	compath
+wikipathways	WP241	One Carbon Metabolism	partOf	kegg.pathway	WP241	None	manual	compath
+kegg.pathway	hsa04110	Cell cycle - Homo sapiens (human)	skos:exactMatch	wikipathways	WP179	Cell Cycle	manual	compath
+wikipathways	WP45	G1 to S cell cycle control	partOf	kegg.pathway	WP45	None	manual	compath
+kegg.pathway	hsa04062	Chemokine signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3929	Chemokine signaling pathway	manual	compath
+wikipathways	WP197	Cholesterol Biosynthesis Pathway	partOf	kegg.pathway	WP197	None	manual	compath
+wikipathways	WP3640	Imatinib and Chronic Myeloid Leukemia	partOf	kegg.pathway	WP3640	None	manual	compath
+wikipathways	WP3594	Circadian rhythm related genes	partOf	kegg.pathway	WP3594	None	manual	compath
+kegg.pathway	hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP78	TCA Cycle (aka Krebs or citric acid cycle)	manual	compath
+wikipathways	WP2453	TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc)	partOf	kegg.pathway	WP2453	None	manual	compath
+kegg.pathway	hsa05030	Cocaine addiction - Homo sapiens (human)	partOf	wikipathways	WP2636	Common Pathways Underlying Drug Addiction	manual	compath
+kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)	skos:exactMatch	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+wikipathways	WP545	Complement Activation	partOf	kegg.pathway	WP545	None	manual	compath
+kegg.pathway	hsa04927	Cortisol synthesis and secretion - Homo sapiens (human)	partOf	wikipathways	WP237	None	manual	compath
+kegg.pathway	hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+wikipathways	WP3580	Methionine De Novo and Salvage Pathway	partOf	kegg.pathway	WP3580	None	manual	compath
+kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)	partOf	wikipathways	WP530	Cytokines and Inflammatory Response	manual	compath
+kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)	partOf	wikipathways	WP453	Inflammatory Response Pathway	manual	compath
+kegg.pathway	hsa03030	DNA replication - Homo sapiens (human)	skos:exactMatch	wikipathways	WP466	DNA Replication	manual	compath
+wikipathways	WP1602	Nicotine Activity on Dopaminergic Neurons	partOf	kegg.pathway	WP1602	None	manual	compath
+wikipathways	WP2646	Lidocaine metabolism	partOf	kegg.pathway	WP2646	None	manual	compath
+wikipathways	WP1604	Codeine and Morphine Metabolism	partOf	kegg.pathway	WP1604	None	manual	compath
+wikipathways	WP3871	Valproic acid pathway	partOf	kegg.pathway	WP3871	None	manual	compath
+wikipathways	WP1600	Nicotine Metabolism	partOf	kegg.pathway	WP1600	None	manual	compath
+wikipathways	WP691	Tamoxifen metabolism	partOf	kegg.pathway	WP691	None	manual	compath
+wikipathways	WP2816	Felbamate Metabolism	partOf	kegg.pathway	WP2816	None	manual	compath
+wikipathways	WP2491	Diclofenac Metabolic Pathway	partOf	kegg.pathway	WP2491	None	manual	compath
+wikipathways	WP1604	Codeine and Morphine Metabolism	partOf	kegg.pathway	WP1604	None	manual	compath
+wikipathways	WP3633	Caffeine and Theobromine metabolism	partOf	kegg.pathway	WP3633	None	manual	compath
+wikipathways	WP698	Glucuronidation	partOf	kegg.pathway	WP698	None	manual	compath
+wikipathways	WP694	Arylamine metabolism	partOf	kegg.pathway	WP694	None	manual	compath
+wikipathways	WP2816	Felbamate Metabolism	partOf	kegg.pathway	WP2816	None	manual	compath
+wikipathways	WP2536	Colchicine Metabolic Pathway	partOf	kegg.pathway	WP2536	None	manual	compath
+wikipathways	WP2826	Cocaine metabolism	partOf	kegg.pathway	WP2826	None	manual	compath
+wikipathways	WP2645	Heroin metabolism	partOf	kegg.pathway	WP2645	None	manual	compath
+kegg.pathway	hsa04512	ECM-receptor interaction - Homo sapiens (human)	partOf	wikipathways	WP306	Focal Adhesion	manual	compath
+kegg.pathway	hsa05213	Endometrial cancer - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4155	Endometrial cancer	manual	compath
+kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+kegg.pathway	hsa04915	Estrogen signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP712	Estrogen signaling pathway	manual	compath
+kegg.pathway	hsa00061	Fatty acid biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP357	Fatty Acid Biosynthesis	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	kegg.pathway	WP206	None	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	kegg.pathway	WP1941	None	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	kegg.pathway	WP368	None	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	kegg.pathway	WP143	None	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	kegg.pathway	WP1941	None	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	kegg.pathway	WP368	None	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	kegg.pathway	WP143	None	manual	compath
+wikipathways	WP357	Fatty Acid Biosynthesis	partOf	kegg.pathway	WP357	None	manual	compath
+kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)	skos:exactMatch	wikipathways	WP306	Focal Adhesion	manual	compath
+kegg.pathway	hsa04727	GABAergic synapse - Homo sapiens (human)	partOf	wikipathways	WP4159	GABA receptor Signaling	manual	compath
+kegg.pathway	hsa04971	Gastric acid secretion - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2597	Secretion of Hydrochloric Acid in Parietal Cells	manual	compath
+wikipathways	WP2363	Gastric Cancer Network 2	partOf	kegg.pathway	WP2363	None	manual	compath
+wikipathways	WP2361	Gastric Cancer Network 1	partOf	kegg.pathway	WP2361	None	manual	compath
+kegg.pathway	hsa04922	Glucagon signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP534	Glycolysis and Gluconeogenesis	manual	compath
+kegg.pathway	hsa04922	Glucagon signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP1541	Energy Metabolism	manual	compath
+kegg.pathway	hsa04922	Glucagon signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP500	Glycogen Synthesis and Degradation	manual	compath
+kegg.pathway	hsa00480	Glutathione metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP100	Glutathione metabolism	manual	compath
+wikipathways	WP2533	Glycerophospholipid Biosynthetic Pathway	partOf	kegg.pathway	WP2533	None	manual	compath
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	partOf	kegg.pathway	WP4153	None	manual	compath
+wikipathways	WP325	Triacylglyceride Synthesis	partOf	kegg.pathway	WP325	None	manual	compath
+wikipathways	WP2533	Glycerophospholipid Biosynthetic Pathway	partOf	kegg.pathway	WP2533	None	manual	compath
+wikipathways	WP325	Triacylglyceride Synthesis	partOf	kegg.pathway	WP325	None	manual	compath
+kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	partOf	wikipathways	WP497	Urea cycle and metabolism of amino groups	manual	compath
+kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP534	Glycolysis and Gluconeogenesis	manual	compath
+kegg.pathway	hsa00604	Glycosphingolipid biosynthesis - ganglio series - Homo sapiens (human)	partOf	wikipathways	WP1423	Ganglio Sphingolipid Metabolism	manual	compath
+kegg.pathway	hsa00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human)	partOf	wikipathways	WP1424	Globo Sphingolipid Metabolism	manual	compath
+kegg.pathway	hsa05332	Graft-versus-host disease - Homo sapiens (human)	partOf	wikipathways	WP2328	Allograft Rejection	manual	compath
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP47	Hedgehog Signaling Pathway Netpath	manual	compath
+kegg.pathway	hsa05225	Hepatocellular carcinoma - Homo sapiens (human)	partOf	wikipathways	WP3646	Hepatitis C and Hepatocellular Carcinoma	manual	compath
+kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa03440	Homologous recombination - Homo sapiens (human)	skos:exactMatch	wikipathways	WP186	Homologous recombination	manual	compath
+wikipathways	WP3853	ERK Pathway in Huntington's Disease	partOf	kegg.pathway	WP3853	None	manual	compath
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2112	IL17 signaling pathway	manual	compath
+kegg.pathway	hsa04931	Insulin resistance - Homo sapiens (human)	partOf	wikipathways	WP1584	Type II diabetes mellitus	manual	compath
+kegg.pathway	hsa04931	Insulin resistance - Homo sapiens (human)	partOf	wikipathways	WP3635	Insulin signalling in human adipocytes (diabetic condition)	manual	compath
+kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP3634	Insulin signalling in human adipocytes (normal condition)	manual	compath
+kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP661	Glucose Homeostasis	manual	compath
+kegg.pathway	hsa00785	Lipoic acid metabolism - Homo sapiens (human)	partOf	wikipathways	WP3965	Lipid Metabolism Pathway	manual	compath
+kegg.pathway	hsa00310	Lysine degradation - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP382	MAPK Signaling Pathway	manual	compath
+wikipathways	WP400	p38 MAPK Signaling Pathway	partOf	kegg.pathway	WP400	None	manual	compath
+wikipathways	WP422	MAPK Cascade	partOf	kegg.pathway	WP422	None	manual	compath
+wikipathways	WP3633	Caffeine and Theobromine metabolism	partOf	kegg.pathway	WP3633	None	manual	compath
+wikipathways	WP3645	NAD+ biosynthetic pathways	partOf	kegg.pathway	WP3645	None	manual	compath
+wikipathways	WP2646	Lidocaine metabolism	partOf	kegg.pathway	WP2646	None	manual	compath
+wikipathways	WP1946	Cori Cycle	partOf	kegg.pathway	WP1946	None	manual	compath
+wikipathways	WP98	Prostaglandin Synthesis and Regulation	partOf	kegg.pathway	WP98	None	manual	compath
+wikipathways	WP465	Tryptophan metabolism	partOf	kegg.pathway	WP465	None	manual	compath
+wikipathways	WP357	Fatty Acid Biosynthesis	partOf	kegg.pathway	WP357	None	manual	compath
+wikipathways	WP2645	Heroin metabolism	partOf	kegg.pathway	WP2645	None	manual	compath
+wikipathways	WP690	Polyol Pathway	partOf	kegg.pathway	WP690	None	manual	compath
+wikipathways	WP1423	Ganglio Sphingolipid Metabolism	partOf	kegg.pathway	WP1423	None	manual	compath
+wikipathways	WP550	Biogenic Amine Synthesis	partOf	kegg.pathway	WP550	None	manual	compath
+wikipathways	WP3580	Methionine De Novo and Salvage Pathway	partOf	kegg.pathway	WP3580	None	manual	compath
+wikipathways	WP694	Arylamine metabolism	partOf	kegg.pathway	WP694	None	manual	compath
+wikipathways	WP534	Glycolysis and Gluconeogenesis	partOf	kegg.pathway	WP534	None	manual	compath
+wikipathways	WP2436	Dopamine metabolism	partOf	kegg.pathway	WP2436	None	manual	compath
+wikipathways	WP528	Acetylcholine Synthesis	partOf	kegg.pathway	WP528	None	manual	compath
+wikipathways	WP1604	Codeine and Morphine Metabolism	partOf	kegg.pathway	WP1604	None	manual	compath
+wikipathways	WP311	Synthesis and Degradation of Ketone Bodies	partOf	kegg.pathway	WP311	None	manual	compath
+wikipathways	WP2525	Trans-sulfuration and one carbon metabolism	partOf	kegg.pathway	WP2525	None	manual	compath
+wikipathways	WP100	Glutathione metabolism	partOf	kegg.pathway	WP100	None	manual	compath
+wikipathways	WP78	TCA Cycle (aka Krebs or citric acid cycle)	partOf	kegg.pathway	WP78	None	manual	compath
+wikipathways	WP496	Steroid Biosynthesis	partOf	kegg.pathway	WP496	None	manual	compath
+wikipathways	WP167	Eicosanoid Synthesis	partOf	kegg.pathway	WP167	None	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	kegg.pathway	WP2485	None	manual	compath
+wikipathways	WP561	Heme Biosynthesis	partOf	kegg.pathway	WP561	None	manual	compath
+wikipathways	WP2333	Trans-sulfuration pathway	partOf	kegg.pathway	WP2333	None	manual	compath
+wikipathways	WP623	Oxidative phosphorylation	partOf	kegg.pathway	WP623	None	manual	compath
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	partOf	kegg.pathway	WP4153	None	manual	compath
+wikipathways	WP678	Arachidonate Epoxygenase / Epoxide Hydrolase	partOf	kegg.pathway	WP678	None	manual	compath
+wikipathways	WP2878	PPAR Alpha Pathway	partOf	kegg.pathway	WP2878	None	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	kegg.pathway	WP1941	None	manual	compath
+wikipathways	WP3644	NAD+ metabolism	partOf	kegg.pathway	WP3644	None	manual	compath
+wikipathways	WP1422	Sphingolipid pathway	partOf	kegg.pathway	WP1422	None	manual	compath
+wikipathways	WP2453	TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc)	partOf	kegg.pathway	WP2453	None	manual	compath
+wikipathways	WP704	Methylation Pathways	partOf	kegg.pathway	WP704	None	manual	compath
+wikipathways	WP1600	Nicotine Metabolism	partOf	kegg.pathway	WP1600	None	manual	compath
+wikipathways	WP325	Triacylglyceride Synthesis	partOf	kegg.pathway	WP325	None	manual	compath
+wikipathways	WP229	Irinotecan Pathway	partOf	kegg.pathway	WP229	None	manual	compath
+wikipathways	WP404	Nucleotide Metabolism	partOf	kegg.pathway	WP404	None	manual	compath
+wikipathways	WP696	Benzo(a)pyrene metabolism	partOf	kegg.pathway	WP696	None	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	kegg.pathway	WP368	None	manual	compath
+wikipathways	WP3925	Amino Acid metabolism	partOf	kegg.pathway	WP3925	None	manual	compath
+wikipathways	WP197	Cholesterol Biosynthesis Pathway	partOf	kegg.pathway	WP197	None	manual	compath
+wikipathways	WP2889	Oxytocin signaling	partOf	kegg.pathway	WP2889	None	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	kegg.pathway	WP206	None	manual	compath
+wikipathways	WP500	Glycogen Synthesis and Degradation	partOf	kegg.pathway	WP500	None	manual	compath
+wikipathways	WP2536	Colchicine Metabolic Pathway	partOf	kegg.pathway	WP2536	None	manual	compath
+wikipathways	WP3869	Cannabinoid receptor signaling	partOf	kegg.pathway	WP3869	None	manual	compath
+wikipathways	WP3585	Cytosine methylation	partOf	kegg.pathway	WP3585	None	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	kegg.pathway	WP4210	None	manual	compath
+wikipathways	WP43	Oxidation by Cytochrome P450	partOf	kegg.pathway	WP43	None	manual	compath
+wikipathways	WP405	Eukaryotic Transcription Initiation	partOf	kegg.pathway	WP405	None	manual	compath
+wikipathways	WP3933	Kennedy pathway from Sphingolipids	partOf	kegg.pathway	WP3933	None	manual	compath
+wikipathways	WP134	Pentose Phosphate Metabolism	partOf	kegg.pathway	WP134	None	manual	compath
+wikipathways	WP691	Tamoxifen metabolism	partOf	kegg.pathway	WP691	None	manual	compath
+wikipathways	WP716	Vitamin A and Carotenoid Metabolism	partOf	kegg.pathway	WP716	None	manual	compath
+wikipathways	WP699	Aflatoxin B1 metabolism	partOf	kegg.pathway	WP699	None	manual	compath
+wikipathways	WP2533	Glycerophospholipid Biosynthetic Pathway	partOf	kegg.pathway	WP2533	None	manual	compath
+wikipathways	WP3940	One carbon metabolism and related pathways	partOf	kegg.pathway	WP3940	None	manual	compath
+wikipathways	WP237	None	partOf	kegg.pathway	WP237	None	manual	compath
+wikipathways	WP241	One Carbon Metabolism	partOf	kegg.pathway	WP241	None	manual	compath
+wikipathways	WP1531	Vitamin D Metabolism	partOf	kegg.pathway	WP1531	None	manual	compath
+wikipathways	WP1424	Globo Sphingolipid Metabolism	partOf	kegg.pathway	WP1424	None	manual	compath
+wikipathways	WP4022	Pyrimidine metabolism	partOf	kegg.pathway	WP4022	None	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	kegg.pathway	WP106	None	manual	compath
+wikipathways	WP3965	Lipid Metabolism Pathway	partOf	kegg.pathway	WP3965	None	manual	compath
+wikipathways	WP698	Glucuronidation	partOf	kegg.pathway	WP698	None	manual	compath
+wikipathways	WP497	Urea cycle and metabolism of amino groups	partOf	kegg.pathway	WP497	None	manual	compath
+wikipathways	WP2826	Cocaine metabolism	partOf	kegg.pathway	WP2826	None	manual	compath
+wikipathways	WP4174	Metabolism of Tetrahydrocannabinol (THC)	partOf	kegg.pathway	WP4174	None	manual	compath
+wikipathways	WP111	Electron Transport Chain (OXPHOS system in mitochondria)	partOf	kegg.pathway	WP111	None	manual	compath
+wikipathways	WP697	Estrogen metabolism	partOf	kegg.pathway	WP697	None	manual	compath
+wikipathways	WP2491	Diclofenac Metabolic Pathway	partOf	kegg.pathway	WP2491	None	manual	compath
+wikipathways	WP4142	Metabolism of Spingolipids in ER and Golgi apparatus	partOf	kegg.pathway	WP4142	None	manual	compath
+wikipathways	WP2816	Felbamate Metabolism	partOf	kegg.pathway	WP2816	None	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	kegg.pathway	WP143	None	manual	compath
+wikipathways	WP176	Folate Metabolism	partOf	kegg.pathway	WP176	None	manual	compath
+kegg.pathway	hsa03430	Mismatch repair - Homo sapiens (human)	skos:exactMatch	wikipathways	WP531	DNA Mismatch Repair	manual	compath
+kegg.pathway	hsa05032	Morphine addiction - Homo sapiens (human)	partOf	wikipathways	WP2636	Common Pathways Underlying Drug Addiction	manual	compath
+wikipathways	WP2513	Nanoparticle triggered regulated necrosis	partOf	kegg.pathway	WP2513	None	manual	compath
+wikipathways	WP501	GPCRs, Class C Metabotropic glutamate, pheromone	partOf	kegg.pathway	WP501	None	manual	compath
+wikipathways	WP334	GPCRs, Class B Secretin-like	partOf	kegg.pathway	WP334	None	manual	compath
+wikipathways	WP247	Small Ligand GPCRs	partOf	kegg.pathway	WP247	None	manual	compath
+wikipathways	WP24	Peptide GPCRs	partOf	kegg.pathway	WP24	None	manual	compath
+wikipathways	WP58	Monoamine GPCRs	partOf	kegg.pathway	WP58	None	manual	compath
+wikipathways	WP455	GPCRs, Class A Rhodopsin-like	partOf	kegg.pathway	WP455	None	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	kegg.pathway	WP2485	None	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	kegg.pathway	WP4210	None	manual	compath
+wikipathways	WP3644	NAD+ metabolism	partOf	kegg.pathway	WP3644	None	manual	compath
+wikipathways	WP1600	Nicotine Metabolism	partOf	kegg.pathway	WP1600	None	manual	compath
+wikipathways	WP3645	NAD+ biosynthetic pathways	partOf	kegg.pathway	WP3645	None	manual	compath
+wikipathways	WP4159	GABA receptor Signaling	partOf	kegg.pathway	WP4159	None	manual	compath
+wikipathways	WP1602	Nicotine Activity on Dopaminergic Neurons	partOf	kegg.pathway	WP1602	None	manual	compath
+kegg.pathway	hsa03450	Non-homologous end-joining - Homo sapiens (human)	skos:exactMatch	wikipathways	WP438	Non-homologous end joining	manual	compath
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP61	Notch Signaling Pathway Netpath	manual	compath
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+wikipathways	WP186	Homologous recombination	partOf	kegg.pathway	WP186	None	manual	compath
+wikipathways	WP531	DNA Mismatch Repair	partOf	kegg.pathway	WP531	None	manual	compath
+kegg.pathway	hsa00670	One carbon pool by folate - Homo sapiens (human)	partOf	wikipathways	WP3940	One carbon metabolism and related pathways	manual	compath
+kegg.pathway	hsa00670	One carbon pool by folate - Homo sapiens (human)	partOf	wikipathways	WP241	One Carbon Metabolism	manual	compath
+kegg.pathway	hsa00670	One carbon pool by folate - Homo sapiens (human)	partOf	wikipathways	WP176	Folate Metabolism	manual	compath
+wikipathways	WP2018	RANKL/RANK (Receptor activator of NFKB (ligand)) Signaling Pathway	partOf	kegg.pathway	WP2018	None	manual	compath
+kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)	skos:exactMatch	wikipathways	WP623	Oxidative phosphorylation	manual	compath
+kegg.pathway	hsa04921	Oxytocin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2889	Oxytocin signaling	manual	compath
+kegg.pathway	hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4172	PI3K-Akt Signaling Pathway	manual	compath
+kegg.pathway	hsa03320	PPAR signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3942	PPAR signaling pathway	manual	compath
+wikipathways	WP3679	Cell-type Dependent Selectivity of CCK2R Signaling	partOf	kegg.pathway	WP3679	None	manual	compath
+kegg.pathway	hsa05012	Parkinson disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2371	Parkinsons Disease Pathway	manual	compath
+kegg.pathway	hsa05130	Pathogenic Escherichia coli infection - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2272	Pathogenic Escherichia coli infection	manual	compath
+wikipathways	WP1971	Integrated Cancer Pathway	partOf	kegg.pathway	WP1971	None	manual	compath
+wikipathways	WP2828	Bladder Cancer	partOf	kegg.pathway	WP2828	None	manual	compath
+wikipathways	WP2261	Signaling Pathways in Glioblastoma	partOf	kegg.pathway	WP2261	None	manual	compath
+kegg.pathway	hsa00040	Pentose and glucuronate interconversions - Homo sapiens (human)	partOf	wikipathways	WP698	Glucuronidation	manual	compath
+kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP134	Pentose Phosphate Metabolism	manual	compath
+kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)	partOf	wikipathways	WP534	Glycolysis and Gluconeogenesis	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	kegg.pathway	WP1941	None	manual	compath
+kegg.pathway	hsa00360	Phenylalanine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa00360	Phenylalanine metabolism - Homo sapiens (human)	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+kegg.pathway	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+kegg.pathway	hsa05020	Prion disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3995	Prion disease pathway	manual	compath
+kegg.pathway	hsa04917	Prolactin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2037	Prolactin Signaling Pathway	manual	compath
+kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)	skos:exactMatch	wikipathways	WP183	Proteasome Degradation	manual	compath
+wikipathways	WP2359	Parkin-Ubiquitin Proteasomal System pathway	partOf	kegg.pathway	WP2359	None	manual	compath
+kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)	partOf	wikipathways	WP404	Nucleotide Metabolism	manual	compath
+kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)	partOf	wikipathways	WP466	DNA Replication	manual	compath
+kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)	partOf	wikipathways	WP186	Homologous recombination	manual	compath
+kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4022	Pyrimidine metabolism	manual	compath
+kegg.pathway	hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3865	Novel intracellular components of RIG-I-like receptor (RLR) pathway	manual	compath
+kegg.pathway	hsa03020	RNA polymerase - Homo sapiens (human)	partOf	wikipathways	WP405	Eukaryotic Transcription Initiation	manual	compath
+kegg.pathway	hsa04810	Regulation of actin cytoskeleton - Homo sapiens (human)	skos:exactMatch	wikipathways	WP51	Regulation of Actin Cytoskeleton	manual	compath
+kegg.pathway	hsa04923	Regulation of lipolysis in adipocytes - Homo sapiens (human)	partOf	wikipathways	WP3965	Lipid Metabolism Pathway	manual	compath
+wikipathways	WP4205	MET in type 1 papillary renal cell carcinoma	partOf	kegg.pathway	WP4205	None	manual	compath
+wikipathways	WP554	ACE Inhibitor Pathway	partOf	kegg.pathway	WP554	None	manual	compath
+kegg.pathway	hsa04723	Retrograde endocannabinoid signaling - Homo sapiens (human)	partOf	wikipathways	WP3869	Cannabinoid receptor signaling	manual	compath
+wikipathways	WP477	Cytoplasmic Ribosomal Proteins	partOf	kegg.pathway	WP477	None	manual	compath
+kegg.pathway	hsa04130	SNARE interactions in vesicular transport - Homo sapiens (human)	partOf	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+kegg.pathway	hsa00450	Selenocompound metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP28	None	manual	compath
+wikipathways	WP732	Serotonin Receptor 2 and ELK-SRF/GATA4 signaling	partOf	kegg.pathway	WP732	None	manual	compath
+wikipathways	WP733	Serotonin Receptor 2 and STAT3 Signaling	partOf	kegg.pathway	WP733	None	manual	compath
+wikipathways	WP3931	ESC Pluripotency Pathways	partOf	kegg.pathway	WP3931	None	manual	compath
+kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1422	Sphingolipid pathway	manual	compath
+kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)	partOf	wikipathways	WP1422	Sphingolipid pathway	manual	compath
+kegg.pathway	hsa04071	Sphingolipid signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP1422	Sphingolipid pathway	manual	compath
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP496	Steroid Biosynthesis	manual	compath
+wikipathways	WP237	None	partOf	kegg.pathway	WP237	None	manual	compath
+wikipathways	WP692	Sulfation Biotransformation Reaction	partOf	kegg.pathway	WP692	None	manual	compath
+kegg.pathway	hsa04721	Synaptic vesicle cycle - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	skos:exactMatch	wikipathways	WP311	Synthesis and Degradation of Ketone Bodies	manual	compath
+wikipathways	WP69	T-Cell antigen Receptor (TCR)  Signaling Pathway	partOf	kegg.pathway	WP69	None	manual	compath
+wikipathways	WP2583	T-Cell Receptor and Co-stimulatory Signaling	partOf	kegg.pathway	WP2583	None	manual	compath
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP366	TGF-beta Signaling Pathway	manual	compath
+kegg.pathway	hsa04659	Th17 cell differentiation - Homo sapiens (human)	partOf	wikipathways	WP2112	IL17 signaling pathway	manual	compath
+kegg.pathway	hsa04659	Th17 cell differentiation - Homo sapiens (human)	partOf	wikipathways	WP2029	Cell Differentiation - Index	manual	compath
+kegg.pathway	hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production	manual	compath
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP75	Toll-like Receptor Signaling Pathway	manual	compath
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3858	Toll-like Receptor Signaling related to MyD88	manual	compath
+kegg.pathway	hsa00380	Tryptophan metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP465	Tryptophan metabolism	manual	compath
+kegg.pathway	hsa04930	Type II diabetes mellitus - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1584	Type II diabetes mellitus	manual	compath
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+kegg.pathway	hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)	partOf	wikipathways	WP2359	Parkin-Ubiquitin Proteasomal System pathway	manual	compath
+kegg.pathway	hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)	partOf	wikipathways	WP183	Proteasome Degradation	manual	compath
+wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	partOf	kegg.pathway	WP3943	None	manual	compath
+kegg.pathway	hsa04370	VEGF signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway	manual	compath
+wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway	partOf	kegg.pathway	WP3888	None	manual	compath
+kegg.pathway	hsa00290	Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+wikipathways	WP2197	Endothelin Pathways	partOf	kegg.pathway	WP2197	None	manual	compath
+wikipathways	WP1533	Vitamin B12 Metabolism	partOf	kegg.pathway	WP1533	None	manual	compath
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP428	Wnt Signaling	manual	compath
+wikipathways	WP399	Wnt Signaling Pathway and Pluripotency	partOf	kegg.pathway	WP399	None	manual	compath
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	partOf	wikipathways	WP497	Urea cycle and metabolism of amino groups	manual	compath
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	partOf	wikipathways	WP106	Alanine and aspartate metabolism	manual	compath
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1471	Target Of Rapamycin (TOR) Signaling	manual	compath
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP4172	PI3K-Akt Signaling Pathway	manual	compath
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP3844	PI3K-AKT-mTOR signaling pathway and therapeutic opportunities	manual	compath
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	partOf	wikipathways	WP3932	Focal Adhesion-PI3K-Akt-mTOR-signaling pathway	manual	compath
+wikipathways	WP1495	Glycine Metabolism	partOf	kegg.pathway	WP1495	None	manual	compath
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4321	Thermogenesis	manual	compath
+wikipathways	WP4545	Oxysterols derived from cholesterol	partOf	kegg.pathway	WP4545	None	manual	compath
+kegg.pathway	hsa04216	Ferroptosis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4545	Oxysterols derived from cholesterol	manual	compath
+kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4297	Thiamine metabolic pathways	manual	compath
+wikipathways	WP4504	Cysteine and methionine catabolism	partOf	kegg.pathway	WP4504	None	manual	compath
+wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis	partOf	kegg.pathway	WP4507	None	manual	compath
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4506	Tyrosine Metabolism	manual	compath
+wikipathways	WP4537	Hippo-Yap signaling pathway	partOf	kegg.pathway	WP4537	None	manual	compath
+reactome	R-HSA-163680	AMPK inhibits chREBP transcriptional activation activity	partOf	wikipathways	WP1403	AMP-activated Protein Kinase (AMPK) Signaling	manual	compath
+reactome	R-HSA-176187	Activation of ATR in response to replication stress	partOf	wikipathways	WP3875	ATR Signaling	manual	compath
+wikipathways	WP528	Acetylcholine Synthesis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP699	Aflatoxin B1 metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-5423646	Aflatoxin activation and detoxification	partOf	wikipathways	WP699	Aflatoxin B1 metabolism	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	reactome	R-HSA-70614	None	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2328	Allograft Rejection	partOf	reactome	R-HSA-1280218	Adaptive Immune System	manual	compath
+wikipathways	WP2328	Allograft Rejection	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+reactome	R-HSA-112412	SOS-mediated signalling	partOf	wikipathways	WP244	Alpha 6 Beta 4 signaling pathway	manual	compath
+wikipathways	WP244	Alpha 6 Beta 4 signaling pathway	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+wikipathways	WP3925	Amino Acid metabolism	skos:exactMatch	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP3925	Amino Acid metabolism	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP3925	Amino Acid metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP521	Amino acid conjugation of benzoic acid	partOf	reactome	R-HSA-159424	Conjugation of carboxylic acids	manual	compath
+wikipathways	WP521	Amino acid conjugation of benzoic acid	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP521	Amino acid conjugation of benzoic acid	partOf	reactome	R-HSA-156587	Amino Acid conjugation	manual	compath
+reactome	R-HSA-4411364	Binding of TCF/LEF:CTNNB1 to target gene promoters	partOf	wikipathways	WP3678	Amplification and Expansion of Oncogenic Pathways as Metastatic Traits	manual	compath
+wikipathways	WP254	Apoptosis	skos:exactMatch	reactome	R-HSA-109581	Apoptosis	manual	compath
+reactome	R-HSA-69416	Dimerization of procaspase-8	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-111461	Cytochrome c-mediated apoptotic response	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-111457	Release of apoptotic factors from the mitochondria	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-75157	FasL/ CD95L signaling	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-111458	Formation of apoptosome	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-5357769	Caspase activation via extrinsic apoptotic signalling pathway	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-5218900	CASP8 activity is inhibited	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-111471	Apoptotic factor-mediated response	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-114294	Activation, translocation and oligomerization of BAX	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-111452	Activation and oligomerization of BAK protein	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+reactome	R-HSA-111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+wikipathways	WP1772	Apoptosis Modulation and Signaling	partOf	reactome	R-HSA-109581	Apoptosis	manual	compath
+reactome	R-HSA-111459	Activation of caspases through apoptosome-mediated cleavage	partOf	wikipathways	WP1772	Apoptosis Modulation and Signaling	manual	compath
+wikipathways	WP384	Apoptosis Modulation by HSP70	partOf	reactome	R-HSA-111471	Apoptotic factor-mediated response	manual	compath
+wikipathways	WP384	Apoptosis Modulation by HSP70	partOf	reactome	R-HSA-109581	Apoptosis	manual	compath
+wikipathways	WP384	Apoptosis Modulation by HSP70	partOf	reactome	R-HSA-5357801	Programmed Cell Death	manual	compath
+wikipathways	WP678	Arachidonate Epoxygenase / Epoxide Hydrolase	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP678	Arachidonate Epoxygenase / Epoxide Hydrolase	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP678	Arachidonate Epoxygenase / Epoxide Hydrolase	partOf	reactome	R-HSA-211859	Biological oxidations	manual	compath
+wikipathways	WP678	Arachidonate Epoxygenase / Epoxide Hydrolase	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+wikipathways	WP678	Arachidonate Epoxygenase / Epoxide Hydrolase	partOf	reactome	R-HSA-2142753	Arachidonic acid metabolism	manual	compath
+wikipathways	WP2586	Aryl Hydrocarbon Receptor Netpath	skos:exactMatch	reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling	manual	compath
+wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway	skos:exactMatch	reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling	manual	compath
+wikipathways	WP694	Arylamine metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP23	B Cell Receptor Signaling Pathway	skos:exactMatch	reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)	manual	compath
+wikipathways	WP23	B Cell Receptor Signaling Pathway	partOf	reactome	R-HSA-1280218	Adaptive Immune System	manual	compath
+wikipathways	WP23	B Cell Receptor Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP3676	BDNF-TrkB Signaling	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+wikipathways	WP3891	Benzene metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP696	Benzo(a)pyrene metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-380612	Metabolism of serotonin	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+reactome	R-HSA-888568	GABA synthesis	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+reactome	R-HSA-209931	Serotonin and melatonin biosynthesis	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+reactome	R-HSA-888590	GABA synthesis, release, reuptake and degradation	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+reactome	R-HSA-209905	Catecholamine biosynthesis	partOf	wikipathways	WP550	Biogenic Amine Synthesis	manual	compath
+wikipathways	WP550	Biogenic Amine Synthesis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-140834	Extrinsic Pathway of Fibrin Clot Formation	partOf	wikipathways	WP272	Blood Clotting Cascade	manual	compath
+reactome	R-HSA-75205	Dissolution of Fibrin Clot	partOf	wikipathways	WP272	Blood Clotting Cascade	manual	compath
+wikipathways	WP272	Blood Clotting Cascade	partOf	reactome	R-HSA-109582	Hemostasis	manual	compath
+reactome	R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	partOf	wikipathways	WP272	Blood Clotting Cascade	manual	compath
+wikipathways	WP1425	Bone Morphogenic Protein (BMP) Signalling and Regulation	skos:exactMatch	reactome	R-HSA-201451	Signaling by BMP	manual	compath
+wikipathways	WP2366	Butyrate-induced histone acetylation	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3633	Caffeine and Theobromine metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-211957	Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2	partOf	wikipathways	WP3633	Caffeine and Theobromine metabolism	manual	compath
+wikipathways	WP3633	Caffeine and Theobromine metabolism	partOf	reactome	R-HSA-211981	Xenobiotics	manual	compath
+reactome	R-HSA-390648	Muscarinic acetylcholine receptors	partOf	wikipathways	WP536	Calcium Regulation in the Cardiac Cell	manual	compath
+reactome	R-HSA-190827	Transport of connexins along the secretory pathway	partOf	wikipathways	WP536	Calcium Regulation in the Cardiac Cell	manual	compath
+wikipathways	WP3869	Cannabinoid receptor signaling	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH	manual	compath
+reactome	R-HSA-9012852	Signaling by NOTCH3	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-2979096	NOTCH2 Activation and Transmission of Signal to the Nucleus	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-9013694	Signaling by NOTCH4	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-350054	Notch-HLH transcription pathway	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+reactome	R-HSA-1980143	Signaling by NOTCH1	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-2660825	Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-2122948	Activated NOTCH1 Transmits Signal to the Nucleus	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-157118	Signaling by NOTCH	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-9013508	NOTCH3 Intracellular Domain Regulates Transcription	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-1980145	Signaling by NOTCH2	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-1912399	Pre-NOTCH Processing in the Endoplasmic Reticulum	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-5083630	Defective LFNG causes SCDO3	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-8941856	RUNX3 regulates NOTCH signaling	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-2660826	Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+reactome	R-HSA-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus	partOf	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+wikipathways	WP3874	Canonical and Non-Canonical TGF-B signaling	skos:exactMatch	reactome	R-HSA-170834	Signaling by TGF-beta Receptor Complex	manual	compath
+reactome	R-HSA-3304351	Signaling by TGF-beta Receptor Complex in Cancer	partOf	wikipathways	WP3874	Canonical and Non-Canonical TGF-B signaling	manual	compath
+wikipathways	WP179	Cell Cycle	skos:exactMatch	reactome	R-HSA-1640170	Cell Cycle	manual	compath
+reactome	R-HSA-380108	Chemokine receptors bind chemokines	partOf	wikipathways	WP3929	Chemokine signaling pathway	manual	compath
+wikipathways	WP197	Cholesterol Biosynthesis Pathway	skos:exactMatch	reactome	R-HSA-191273	Cholesterol biosynthesis	manual	compath
+wikipathways	WP197	Cholesterol Biosynthesis Pathway	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP197	Cholesterol Biosynthesis Pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-6807047	Cholesterol biosynthesis via desmosterol	partOf	wikipathways	WP197	Cholesterol Biosynthesis Pathway	manual	compath
+wikipathways	WP197	Cholesterol Biosynthesis Pathway	partOf	reactome	R-HSA-8957322	Metabolism of steroids	manual	compath
+reactome	R-HSA-6807062	Cholesterol biosynthesis via lathosterol	partOf	wikipathways	WP197	Cholesterol Biosynthesis Pathway	manual	compath
+reactome	R-HSA-3315487	SMAD2/3 MH2 Domain Mutants in Cancer	partOf	wikipathways	WP4216	Chromosomal and microsatellite instability in colorectal cancer	manual	compath
+reactome	R-HSA-3311021	SMAD4 MH2 Domain Mutants in Cancer	partOf	wikipathways	WP4216	Chromosomal and microsatellite instability in colorectal cancer	manual	compath
+reactome	R-HSA-3304347	Loss of Function of SMAD4 in Cancer	partOf	wikipathways	WP4216	Chromosomal and microsatellite instability in colorectal cancer	manual	compath
+wikipathways	WP2826	Cocaine metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP1604	Codeine and Morphine Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2536	Colchicine Metabolic Pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP545	Complement Activation	skos:exactMatch	reactome	R-HSA-166658	Complement cascade	manual	compath
+reactome	R-HSA-977606	Regulation of Complement cascade	partOf	wikipathways	WP545	Complement Activation	manual	compath
+reactome	R-HSA-174577	Activation of C3 and C5	partOf	wikipathways	WP545	Complement Activation	manual	compath
+reactome	R-HSA-166665	Terminal pathway of complement	partOf	wikipathways	WP545	Complement Activation	manual	compath
+reactome	R-HSA-166663	Initial triggering of complement	partOf	wikipathways	WP545	Complement Activation	manual	compath
+reactome	R-HSA-166662	Lectin pathway of complement activation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-76002	Platelet activation, signaling and aggregation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-977606	Regulation of Complement cascade	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-174577	Activation of C3 and C5	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-140837	Intrinsic Pathway of Fibrin Clot Formation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-140834	Extrinsic Pathway of Fibrin Clot Formation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-166665	Terminal pathway of complement	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-109582	Hemostasis	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-140875	Common Pathway of Fibrin Clot Formation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-168256	Immune System	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-75205	Dissolution of Fibrin Clot	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-173736	Alternative complement activation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+reactome	R-HSA-166658	Complement cascade	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+wikipathways	WP3601	Composition of Lipid Particles	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3286	Copper homeostasis	partOf	reactome	R-HSA-1222541	Cell redox homeostasis	manual	compath
+wikipathways	WP1946	Cori Cycle	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP1946	Cori Cycle	partOf	reactome	R-HSA-70326	Glucose metabolism	manual	compath
+wikipathways	WP1946	Cori Cycle	partOf	reactome	R-HSA-71387	Metabolism of carbohydrates	manual	compath
+wikipathways	WP2355	Corticotropin-releasing hormone signaling pathway	partOf	reactome	R-HSA-194002	Glucocorticoid biosynthesis	manual	compath
+wikipathways	WP530	Cytokines and Inflammatory Response	skos:exactMatch	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+reactome	R-HSA-448706	Interleukin-1 processing	partOf	wikipathways	WP530	Cytokines and Inflammatory Response	manual	compath
+reactome	R-HSA-6785807	Interleukin-4 and Interleukin-13 signaling	partOf	wikipathways	WP530	Cytokines and Inflammatory Response	manual	compath
+reactome	R-HSA-449147	Signaling by Interleukins	partOf	wikipathways	WP530	Cytokines and Inflammatory Response	manual	compath
+wikipathways	WP530	Cytokines and Inflammatory Response	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP3585	Cytosine methylation	partOf	reactome	R-HSA-5334118	DNA methylation	manual	compath
+wikipathways	WP3585	Cytosine methylation	partOf	reactome	R-HSA-156581	Methylation	manual	compath
+reactome	R-HSA-69563	p53-Dependent G1 DNA Damage Response	partOf	wikipathways	WP707	DNA Damage Response	manual	compath
+reactome	R-HSA-73893	DNA Damage Bypass	partOf	wikipathways	WP707	DNA Damage Response	manual	compath
+reactome	R-HSA-69610	p53-Independent DNA Damage Response	partOf	wikipathways	WP707	DNA Damage Response	manual	compath
+reactome	R-HSA-69615	G1/S DNA Damage Checkpoints	partOf	wikipathways	WP707	DNA Damage Response	manual	compath
+reactome	R-HSA-73942	DNA Damage Reversal	partOf	wikipathways	WP707	DNA Damage Response	manual	compath
+reactome	R-HSA-112412	SOS-mediated signalling	partOf	wikipathways	WP710	DNA Damage Response (only ATM dependent)	manual	compath
+wikipathways	WP3959	DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM	partOf	reactome	R-HSA-73894	DNA Repair	manual	compath
+wikipathways	WP3959	DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM	partOf	reactome	R-HSA-5693606	DNA Double Strand Break Response	manual	compath
+wikipathways	WP4016	DNA IR-damage and cellular response via ATR	partOf	reactome	R-HSA-5693548	Sensing of DNA Double Strand Breaks	manual	compath
+wikipathways	WP4016	DNA IR-damage and cellular response via ATR	partOf	reactome	R-HSA-73894	DNA Repair	manual	compath
+wikipathways	WP466	DNA Replication	skos:exactMatch	reactome	R-HSA-69306	DNA Replication	manual	compath
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	partOf	reactome	R-HSA-428157	Sphingolipid metabolism	manual	compath
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	partOf	reactome	R-HSA-1660662	Glycosphingolipid metabolism	manual	compath
+wikipathways	WP3892	Development of pulmonary dendritic cells and macrophage subsets	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2491	Diclofenac Metabolic Pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2491	Diclofenac Metabolic Pathway	partOf	reactome	R-HSA-211897	Cytochrome P450 - arranged by substrate type	manual	compath
+reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	partOf	wikipathways	WP2895	Differentiation of white and brown adipocyte	manual	compath
+wikipathways	WP2895	Differentiation of white and brown adipocyte	partOf	reactome	R-HSA-1266738	Developmental Biology	manual	compath
+reactome	R-HSA-140179	Amine Oxidase reactions	partOf	wikipathways	WP2436	Dopamine metabolism	manual	compath
+reactome	R-HSA-390651	Dopamine receptors	partOf	wikipathways	WP2436	Dopamine metabolism	manual	compath
+reactome	R-HSA-379398	Enzymatic degradation of Dopamine by monoamine oxidase	partOf	wikipathways	WP2436	Dopamine metabolism	manual	compath
+wikipathways	WP2436	Dopamine metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-379397	Enzymatic degradation of dopamine by COMT	partOf	wikipathways	WP2436	Dopamine metabolism	manual	compath
+reactome	R-HSA-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	partOf	wikipathways	WP2436	Dopamine metabolism	manual	compath
+reactome	R-HSA-379401	Dopamine clearance from the synaptic cleft	partOf	wikipathways	WP2436	Dopamine metabolism	manual	compath
+wikipathways	WP3300	Dual hijack model of Vif in HIV infection	partOf	reactome	R-HSA-162906	HIV Infection	manual	compath
+reactome	R-HSA-180336	SHC1 events in EGFR signaling	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+reactome	R-HSA-182971	EGFR downregulation	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+reactome	R-HSA-1251932	PLCG1 events in ERBB2 signaling	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+wikipathways	WP437	EGF/EGFR Signaling Pathway	partOf	reactome	R-HSA-212718	EGFR interacts with phospholipase C-gamma	manual	compath
+reactome	R-HSA-212718	EGFR interacts with phospholipase C-gamma	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+wikipathways	WP437	EGF/EGFR Signaling Pathway	partOf	reactome	R-HSA-5638303	Inhibition of Signaling by Overexpressed EGFR	manual	compath
+reactome	R-HSA-5638303	Inhibition of Signaling by Overexpressed EGFR	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+reactome	R-HSA-179812	GRB2 events in EGFR signaling	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+reactome	R-HSA-2179392	EGFR Transactivation by Gastrin	partOf	wikipathways	WP437	EGF/EGFR Signaling Pathway	manual	compath
+reactome	R-HSA-392154	Nitric oxide stimulates guanylate cyclase	partOf	wikipathways	WP1995	Effects of Nitric Oxide	manual	compath
+wikipathways	WP167	Eicosanoid Synthesis	partOf	reactome	R-HSA-2142753	Arachidonic acid metabolism	manual	compath
+wikipathways	WP167	Eicosanoid Synthesis	partOf	reactome	R-HSA-211979	Eicosanoids	manual	compath
+wikipathways	WP167	Eicosanoid Synthesis	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP167	Eicosanoid Synthesis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP111	Electron Transport Chain (OXPHOS system in mitochondria)	skos:exactMatch	reactome	R-HSA-611105	Respiratory electron transport	manual	compath
+reactome	R-HSA-8941284	RUNX2 regulates chondrocyte maturation	partOf	wikipathways	WP474	Endochondral Ossification	manual	compath
+reactome	R-HSA-442717	None	partOf	wikipathways	WP1541	Energy Metabolism	manual	compath
+reactome	R-HSA-111932	CaMK IV-mediated phosphorylation of CREB	partOf	wikipathways	WP1541	Energy Metabolism	manual	compath
+wikipathways	WP1541	Energy Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-1592230	Mitochondrial biogenesis	partOf	wikipathways	WP1541	Energy Metabolism	manual	compath
+reactome	R-HSA-212718	EGFR interacts with phospholipase C-gamma	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1227986	Signaling by ERBB2	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1250347	SHC1 events in ERBB4 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1963642	PI3K events in ERBB2 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-6785631	ERBB2 Regulates Cell Motility	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-8847993	ERBB2 Activates PTK6 Signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-180336	SHC1 events in EGFR signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1236382	Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1250342	PI3K events in ERBB4 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1251932	PLCG1 events in ERBB2 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1643713	Signaling by EGFR in Cancer	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-5638303	Inhibition of Signaling by Overexpressed EGFR	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1250196	SHC1 events in ERBB2 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-179812	GRB2 events in EGFR signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-2179392	EGFR Transactivation by Gastrin	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-5638302	Signaling by Overexpressed Wild-Type EGFR in Cancer	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1306955	GRB7 events in ERBB2 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-5637815	Signaling by Ligand-Responsive EGFR Variants in Cancer	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+reactome	R-HSA-1963640	GRB2 events in ERBB2 signaling	partOf	wikipathways	WP673	ErbB Signaling Pathway	manual	compath
+wikipathways	WP697	Estrogen metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP314	Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation	partOf	reactome	R-HSA-140534	Caspase activation via Death Receptors in the presence of ligand	manual	compath
+wikipathways	WP314	Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation	partOf	reactome	R-HSA-109581	Apoptosis	manual	compath
+wikipathways	WP314	Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation	partOf	reactome	R-HSA-5357801	Programmed Cell Death	manual	compath
+wikipathways	WP314	Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation	partOf	reactome	R-HSA-211736	Stimulation of the cell death response by PAK-2p34	manual	compath
+reactome	R-HSA-75157	FasL/ CD95L signaling	partOf	wikipathways	WP314	Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation	manual	compath
+wikipathways	WP314	Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation	partOf	reactome	R-HSA-111458	Formation of apoptosome	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	skos:exactMatch	reactome	R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	manual	compath
+reactome	R-HSA-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+reactome	R-HSA-77352	Beta oxidation of butanoyl-CoA to acetyl-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+reactome	R-HSA-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+reactome	R-HSA-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+reactome	R-HSA-77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+reactome	R-HSA-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+reactome	R-HSA-77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+reactome	R-HSA-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	reactome	R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	manual	compath
+reactome	R-HSA-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA	partOf	wikipathways	WP143	Fatty Acid Beta Oxidation	manual	compath
+wikipathways	WP143	Fatty Acid Beta Oxidation	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP357	Fatty Acid Biosynthesis	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP357	Fatty Acid Biosynthesis	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+reactome	R-HSA-75105	Fatty acyl-CoA biosynthesis	partOf	wikipathways	WP357	Fatty Acid Biosynthesis	manual	compath
+wikipathways	WP357	Fatty Acid Biosynthesis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	reactome	R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	reactome	R-HSA-211859	Biological oxidations	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+wikipathways	WP206	Fatty Acid Omega Oxidation	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2816	Felbamate Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP4136	Fibrin Complement Receptor 3 Signaling Pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP4136	Fibrin Complement Receptor 3 Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP1601	Fluoropyrimidine Activity	partOf	reactome	R-HSA-73621	Pyrimidine catabolism	manual	compath
+wikipathways	WP1601	Fluoropyrimidine Activity	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP1601	Fluoropyrimidine Activity	partOf	reactome	R-HSA-15869	Metabolism of nucleotides	manual	compath
+reactome	R-HSA-9006921	None	partOf	wikipathways	WP306	Focal Adhesion	manual	compath
+reactome	R-HSA-3000157	Laminin interactions	partOf	wikipathways	WP306	Focal Adhesion	manual	compath
+wikipathways	WP176	Folate Metabolism	partOf	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	manual	compath
+wikipathways	WP176	Folate Metabolism	partOf	reactome	R-HSA-196757	Metabolism of folate and pterines	manual	compath
+wikipathways	WP176	Folate Metabolism	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP176	Folate Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-1614603	Cysteine formation from homocysteine	partOf	wikipathways	WP176	Folate Metabolism	manual	compath
+wikipathways	WP45	G1 to S cell cycle control	partOf	reactome	R-HSA-453279	Mitotic G1 phase and G1/S transition	manual	compath
+wikipathways	WP45	G1 to S cell cycle control	partOf	reactome	R-HSA-1640170	Cell Cycle	manual	compath
+reactome	R-HSA-68616	Assembly of the ORC complex at the origin of replication	partOf	wikipathways	WP45	G1 to S cell cycle control	manual	compath
+reactome	R-HSA-69200	Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	partOf	wikipathways	WP45	G1 to S cell cycle control	manual	compath
+wikipathways	WP45	G1 to S cell cycle control	partOf	reactome	R-HSA-69278	Cell Cycle, Mitotic	manual	compath
+wikipathways	WP45	G1 to S cell cycle control	partOf	reactome	R-HSA-69206	G1/S Transition	manual	compath
+wikipathways	WP524	G13 Signaling Pathway	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+wikipathways	WP4159	GABA receptor Signaling	skos:exactMatch	reactome	R-HSA-977443	GABA receptor activation	manual	compath
+reactome	R-HSA-888593	Reuptake of GABA	partOf	wikipathways	WP4159	GABA receptor Signaling	manual	compath
+reactome	R-HSA-977441	None	partOf	wikipathways	WP4159	GABA receptor Signaling	manual	compath
+wikipathways	WP455	GPCRs, Class A Rhodopsin-like	skos:exactMatch	reactome	R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	manual	compath
+wikipathways	WP334	GPCRs, Class B Secretin-like	skos:exactMatch	reactome	R-HSA-373080	Class B/2 (Secretin family receptors)	manual	compath
+wikipathways	WP501	GPCRs, Class C Metabotropic glutamate, pheromone	skos:exactMatch	reactome	R-HSA-420499	Class C/3 (Metabotropic glutamate/pheromone receptors)	manual	compath
+wikipathways	WP117	GPCRs, Other	partOf	reactome	R-HSA-388396	GPCR downstream signalling	manual	compath
+wikipathways	WP117	GPCRs, Other	partOf	reactome	R-HSA-372790	Signaling by GPCR	manual	compath
+wikipathways	WP117	GPCRs, Other	partOf	reactome	R-HSA-500792	GPCR ligand binding	manual	compath
+wikipathways	WP3958	GPR40 Pathway	skos:exactMatch	reactome	R-HSA-434316	Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	manual	compath
+wikipathways	WP1423	Ganglio Sphingolipid Metabolism	partOf	reactome	R-HSA-428157	Sphingolipid metabolism	manual	compath
+wikipathways	WP1423	Ganglio Sphingolipid Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2276	Glial Cell Differentiation	partOf	reactome	R-HSA-1266738	Developmental Biology	manual	compath
+wikipathways	WP1424	Globo Sphingolipid Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP1424	Globo Sphingolipid Metabolism	partOf	reactome	R-HSA-428157	Sphingolipid metabolism	manual	compath
+wikipathways	WP237	None	partOf	reactome	R-HSA-196071	Metabolism of steroid hormones	manual	compath
+reactome	R-HSA-193993	Mineralocorticoid biosynthesis	partOf	wikipathways	WP237	None	manual	compath
+reactome	R-HSA-194002	Glucocorticoid biosynthesis	partOf	wikipathways	WP237	None	manual	compath
+wikipathways	WP237	None	partOf	reactome	R-HSA-8957322	Metabolism of steroids	manual	compath
+wikipathways	WP237	None	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-422356	Regulation of insulin secretion	partOf	wikipathways	WP661	Glucose Homeostasis	manual	compath
+wikipathways	WP661	Glucose Homeostasis	partOf	reactome	R-HSA-70326	Glucose metabolism	manual	compath
+reactome	R-HSA-74751	Insulin receptor signalling cascade	partOf	wikipathways	WP661	Glucose Homeostasis	manual	compath
+wikipathways	WP698	Glucuronidation	skos:exactMatch	reactome	R-HSA-156588	Glucuronidation	manual	compath
+wikipathways	WP100	Glutathione metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-156590	Glutathione conjugation	partOf	wikipathways	WP100	Glutathione metabolism	manual	compath
+wikipathways	WP2533	Glycerophospholipid Biosynthetic Pathway	skos:exactMatch	reactome	R-HSA-1483206	Glycerophospholipid biosynthesis	manual	compath
+wikipathways	WP500	Glycogen Synthesis and Degradation	skos:exactMatch	reactome	R-HSA-8982491	Glycogen metabolism	manual	compath
+wikipathways	WP534	Glycolysis and Gluconeogenesis	partOf	reactome	R-HSA-71387	Metabolism of carbohydrates	manual	compath
+reactome	R-HSA-70171	Glycolysis	partOf	wikipathways	WP534	Glycolysis and Gluconeogenesis	manual	compath
+wikipathways	WP534	Glycolysis and Gluconeogenesis	partOf	reactome	R-HSA-70326	Glucose metabolism	manual	compath
+wikipathways	WP534	Glycolysis and Gluconeogenesis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-70263	Gluconeogenesis	partOf	wikipathways	WP534	Glycolysis and Gluconeogenesis	manual	compath
+reactome	R-HSA-211999	CYP2E1 reactions	partOf	wikipathways	WP3627	Gut-Liver Indole Metabolism	manual	compath
+wikipathways	WP3627	Gut-Liver Indole Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2456	HIF1A and PPARG regulation of glycolysis	partOf	reactome	R-HSA-70171	Glycolysis	manual	compath
+wikipathways	WP2456	HIF1A and PPARG regulation of glycolysis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2456	HIF1A and PPARG regulation of glycolysis	partOf	reactome	R-HSA-70326	Glucose metabolism	manual	compath
+wikipathways	WP2456	HIF1A and PPARG regulation of glycolysis	partOf	reactome	R-HSA-71387	Metabolism of carbohydrates	manual	compath
+wikipathways	WP47	Hedgehog Signaling Pathway Netpath	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog	manual	compath
+wikipathways	WP561	Heme Biosynthesis	skos:exactMatch	reactome	R-HSA-189451	Heme biosynthesis	manual	compath
+wikipathways	WP2645	Heroin metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-3247509	Chromatin modifying enzymes	partOf	wikipathways	WP2369	Histone Modifications	manual	compath
+reactome	R-HSA-3214841	PKMTs methylate histone lysines	partOf	wikipathways	WP2369	Histone Modifications	manual	compath
+reactome	R-HSA-5693538	Homology Directed Repair	partOf	wikipathways	WP186	Homologous recombination	manual	compath
+wikipathways	WP195	IL-1 signaling pathway	skos:exactMatch	reactome	R-HSA-446652	Interleukin-1 family signaling	manual	compath
+wikipathways	WP49	IL-2 Signaling Pathway	skos:exactMatch	reactome	R-HSA-9020558	Interleukin-2 signaling	manual	compath
+wikipathways	WP286	IL-3 Signaling Pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP286	IL-3 Signaling Pathway	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP286	IL-3 Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP286	IL-3 Signaling Pathway	partOf	reactome	R-HSA-512988	Interleukin-3, Interleukin-5 and GM-CSF signaling	manual	compath
+wikipathways	WP286	IL-3 Signaling Pathway	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP395	IL-4 Signaling Pathway	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP395	IL-4 Signaling Pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP395	IL-4 Signaling Pathway	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP395	IL-4 Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP127	IL-5 Signaling Pathway	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP127	IL-5 Signaling Pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP127	IL-5 Signaling Pathway	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP127	IL-5 Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP364	IL-6 signaling pathway	skos:exactMatch	reactome	R-HSA-1059683	Interleukin-6 signaling	manual	compath
+wikipathways	WP205	IL-7 Signaling Pathway	skos:exactMatch	reactome	R-HSA-1266695	Interleukin-7 signaling	manual	compath
+wikipathways	WP22	IL-9 Signaling Pathway	skos:exactMatch	reactome	R-HSA-8985947	Interleukin-9 signaling	manual	compath
+wikipathways	WP2865	IL1 and megakaryocytes in obesity	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2112	IL17 signaling pathway	skos:exactMatch	reactome	R-HSA-448424	Interleukin-17 signaling	manual	compath
+wikipathways	WP453	Inflammatory Response Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP453	Inflammatory Response Pathway	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP1438	Influenza A virus infection	partOf	reactome	R-HSA-168254	None	manual	compath
+wikipathways	WP3635	Insulin signalling in human adipocytes (diabetic condition)	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+wikipathways	WP3634	Insulin signalling in human adipocytes (normal condition)	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+reactome	R-HSA-5632968	Defective Mismatch Repair Associated With MSH6	partOf	wikipathways	WP1971	Integrated Cancer Pathway	manual	compath
+reactome	R-HSA-5632928	Defective Mismatch Repair Associated With MSH2	partOf	wikipathways	WP1971	Integrated Cancer Pathway	manual	compath
+reactome	R-HSA-5674404	PTEN Loss of Function in Cancer	partOf	wikipathways	WP1971	Integrated Cancer Pathway	manual	compath
+reactome	R-HSA-3311021	SMAD4 MH2 Domain Mutants in Cancer	partOf	wikipathways	WP1971	Integrated Cancer Pathway	manual	compath
+reactome	R-HSA-3304347	Loss of Function of SMAD4 in Cancer	partOf	wikipathways	WP1971	Integrated Cancer Pathway	manual	compath
+reactome	R-HSA-9006921	None	partOf	wikipathways	WP185	Integrin-mediated Cell Adhesion	manual	compath
+reactome	R-HSA-354192	Integrin signaling	partOf	wikipathways	WP185	Integrin-mediated Cell Adhesion	manual	compath
+wikipathways	WP585	Interferon type I signaling pathways	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP585	Interferon type I signaling pathways	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP585	Interferon type I signaling pathways	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP585	Interferon type I signaling pathways	partOf	reactome	R-HSA-1280218	Adaptive Immune System	manual	compath
+wikipathways	WP585	Interferon type I signaling pathways	partOf	reactome	R-HSA-913531	Interferon Signaling	manual	compath
+wikipathways	WP3656	Interleukin-1 Induced Activation of NF-kappa-B	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP3656	Interleukin-1 Induced Activation of NF-kappa-B	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP3656	Interleukin-1 Induced Activation of NF-kappa-B	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP3656	Interleukin-1 Induced Activation of NF-kappa-B	partOf	reactome	R-HSA-9020702	Interleukin-1 signaling	manual	compath
+wikipathways	WP3656	Interleukin-1 Induced Activation of NF-kappa-B	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP3656	Interleukin-1 Induced Activation of NF-kappa-B	partOf	reactome	R-HSA-446652	Interleukin-1 family signaling	manual	compath
+wikipathways	WP2332	Interleukin-11 Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2332	Interleukin-11 Signaling Pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP2332	Interleukin-11 Signaling Pathway	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP2332	Interleukin-11 Signaling Pathway	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP2007	Iron metabolism in placenta	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3933	Kennedy pathway from Sphingolipids	partOf	reactome	R-HSA-1483191	Synthesis of PC	manual	compath
+wikipathways	WP3933	Kennedy pathway from Sphingolipids	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP3933	Kennedy pathway from Sphingolipids	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3933	Kennedy pathway from Sphingolipids	partOf	reactome	R-HSA-428157	Sphingolipid metabolism	manual	compath
+reactome	R-HSA-1433559	Regulation of KIT signaling	partOf	wikipathways	WP304	Kit receptor signaling pathway	manual	compath
+wikipathways	WP3935	Leptin Insulin Overlap	partOf	reactome	R-HSA-2586552	Signaling by Leptin	manual	compath
+wikipathways	WP3934	Leptin and adiponectin	partOf	reactome	R-HSA-2586552	Signaling by Leptin	manual	compath
+wikipathways	WP2034	Leptin signaling pathway	skos:exactMatch	reactome	R-HSA-2586552	Signaling by Leptin	manual	compath
+wikipathways	WP2646	Lidocaine metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-211897	Cytochrome P450 - arranged by substrate type	partOf	wikipathways	WP2646	Lidocaine metabolism	manual	compath
+wikipathways	WP3965	Lipid Metabolism Pathway	skos:exactMatch	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+reactome	R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	partOf	wikipathways	WP2874	Liver X Receptor Pathway	manual	compath
+wikipathways	WP422	MAPK Cascade	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades	manual	compath
+wikipathways	WP382	MAPK Signaling Pathway	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades	manual	compath
+wikipathways	WP4146	Macrophage markers	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP4146	Macrophage markers	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP4146	Macrophage markers	partOf	reactome	R-HSA-1280218	Adaptive Immune System	manual	compath
+reactome	R-HSA-5689901	Metalloprotease DUBs	partOf	wikipathways	WP129	Matrix Metalloproteinases	manual	compath
+reactome	R-HSA-1592389	Activation of Matrix Metalloproteinases	partOf	wikipathways	WP129	Matrix Metalloproteinases	manual	compath
+wikipathways	WP129	Matrix Metalloproteinases	partOf	reactome	R-HSA-1474244	Extracellular matrix organization	manual	compath
+reactome	R-HSA-1474228	Degradation of the extracellular matrix	partOf	wikipathways	WP129	Matrix Metalloproteinases	manual	compath
+wikipathways	WP129	Matrix Metalloproteinases	partOf	reactome	R-HSA-1474244	Extracellular matrix organization	manual	compath
+wikipathways	WP4142	Metabolism of Spingolipids in ER and Golgi apparatus	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP4142	Metabolism of Spingolipids in ER and Golgi apparatus	partOf	reactome	R-HSA-392499	Metabolism of proteins	manual	compath
+wikipathways	WP4142	Metabolism of Spingolipids in ER and Golgi apparatus	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP4142	Metabolism of Spingolipids in ER and Golgi apparatus	partOf	reactome	R-HSA-428157	Sphingolipid metabolism	manual	compath
+wikipathways	WP4174	Metabolism of Tetrahydrocannabinol (THC)	partOf	reactome	R-HSA-211981	Xenobiotics	manual	compath
+wikipathways	WP4174	Metabolism of Tetrahydrocannabinol (THC)	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP4174	Metabolism of Tetrahydrocannabinol (THC)	partOf	reactome	R-HSA-211897	Cytochrome P450 - arranged by substrate type	manual	compath
+wikipathways	WP3580	Methionine De Novo and Salvage Pathway	skos:exactMatch	reactome	R-HSA-1237112	Methionine salvage pathway	manual	compath
+reactome	R-HSA-1237112	Methionine salvage pathway	partOf	wikipathways	WP3580	Methionine De Novo and Salvage Pathway	manual	compath
+wikipathways	WP704	Methylation Pathways	skos:exactMatch	reactome	R-HSA-156581	Methylation	manual	compath
+wikipathways	WP3937	Microglia Pathogen Phagocytosis Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP3937	Microglia Pathogen Phagocytosis Pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP531	DNA Mismatch Repair	skos:exactMatch	reactome	R-HSA-5358508	Mismatch Repair	manual	compath
+reactome	R-HSA-163282	Mitochondrial transcription initiation	partOf	wikipathways	WP391	Mitochondrial Gene Expression	manual	compath
+reactome	R-HSA-75944	Transcription from mitochondrial promoters	partOf	wikipathways	WP391	Mitochondrial Gene Expression	manual	compath
+wikipathways	WP391	Mitochondrial Gene Expression	partOf	reactome	R-HSA-163316	Mitochondrial transcription termination	manual	compath
+reactome	R-HSA-1592230	Mitochondrial biogenesis	partOf	wikipathways	WP391	Mitochondrial Gene Expression	manual	compath
+reactome	R-HSA-163316	Mitochondrial transcription termination	partOf	wikipathways	WP391	Mitochondrial Gene Expression	manual	compath
+wikipathways	WP391	Mitochondrial Gene Expression	partOf	reactome	R-HSA-75944	Transcription from mitochondrial promoters	manual	compath
+wikipathways	WP391	Mitochondrial Gene Expression	partOf	reactome	R-HSA-1852241	Organelle biogenesis and maintenance	manual	compath
+wikipathways	WP391	Mitochondrial Gene Expression	partOf	reactome	R-HSA-2151201	Transcriptional activation of mitochondrial biogenesis	manual	compath
+wikipathways	WP391	Mitochondrial Gene Expression	partOf	reactome	R-HSA-163282	Mitochondrial transcription initiation	manual	compath
+reactome	R-HSA-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA	partOf	wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	partOf	wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	reactome	R-HSA-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids	manual	compath
+reactome	R-HSA-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	partOf	wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	manual	compath
+reactome	R-HSA-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA	partOf	wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	manual	compath
+reactome	R-HSA-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	partOf	wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	reactome	R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	manual	compath
+reactome	R-HSA-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA	partOf	wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	manual	compath
+wikipathways	WP368	Mitochondrial LC-Fatty Acid Beta-Oxidation	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+reactome	R-HSA-390666	Serotonin receptors	partOf	wikipathways	WP58	Monoamine GPCRs	manual	compath
+reactome	R-HSA-500792	GPCR ligand binding	partOf	wikipathways	WP58	Monoamine GPCRs	manual	compath
+wikipathways	WP58	Monoamine GPCRs	partOf	reactome	R-HSA-373076	Class A/1 (Rhodopsin-like receptors)	manual	compath
+reactome	R-HSA-390651	Dopamine receptors	partOf	wikipathways	WP58	Monoamine GPCRs	manual	compath
+reactome	R-HSA-418594	G alpha (i) signalling events	partOf	wikipathways	WP58	Monoamine GPCRs	manual	compath
+wikipathways	WP727	Monoamine Transport	partOf	reactome	R-HSA-112311	Neurotransmitter clearance	manual	compath
+wikipathways	WP727	Monoamine Transport	partOf	reactome	R-HSA-380615	Serotonin clearance from the synaptic cleft	manual	compath
+wikipathways	WP727	Monoamine Transport	partOf	reactome	R-HSA-209905	Catecholamine biosynthesis	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-6788656	None	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-71240	Tryptophan catabolism	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-196807	Nicotinate metabolism	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP2485	NAD Biosynthesis II (from tryptophan)	partOf	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	manual	compath
+wikipathways	WP3645	NAD+ biosynthetic pathways	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP3645	NAD+ biosynthetic pathways	partOf	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	manual	compath
+wikipathways	WP3645	NAD+ biosynthetic pathways	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3645	NAD+ biosynthetic pathways	partOf	reactome	R-HSA-196807	Nicotinate metabolism	manual	compath
+wikipathways	WP3644	NAD+ metabolism	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP3644	NAD+ metabolism	partOf	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	manual	compath
+wikipathways	WP3644	NAD+ metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3644	NAD+ metabolism	partOf	reactome	R-HSA-196807	Nicotinate metabolism	manual	compath
+wikipathways	WP288	NLR Proteins	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP288	NLR Proteins	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2507	Nanomaterial induced apoptosis	partOf	reactome	R-HSA-109581	Apoptosis	manual	compath
+wikipathways	WP2507	Nanomaterial induced apoptosis	partOf	reactome	R-HSA-140534	Caspase activation via Death Receptors in the presence of ligand	manual	compath
+wikipathways	WP2513	Nanoparticle triggered regulated necrosis	partOf	reactome	R-HSA-109581	Apoptosis	manual	compath
+reactome	R-HSA-5619081	Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)	partOf	wikipathways	WP4220	Neurotransmitter Disorders	manual	compath
+reactome	R-HSA-5579012	Defective MAOA causes Brunner syndrome (BRUNS)	partOf	wikipathways	WP4220	Neurotransmitter Disorders	manual	compath
+wikipathways	WP1602	Nicotine Activity on Dopaminergic Neurons	partOf	reactome	R-HSA-112316	Neuronal System	manual	compath
+wikipathways	WP1602	Nicotine Activity on Dopaminergic Neurons	partOf	reactome	R-HSA-390651	Dopamine receptors	manual	compath
+wikipathways	WP1600	Nicotine Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP438	Non-homologous end joining	skos:exactMatch	reactome	R-HSA-5693571	Nonhomologous End-Joining (NHEJ)	manual	compath
+wikipathways	WP61	Notch Signaling Pathway Netpath	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH	manual	compath
+wikipathways	WP170	Nuclear Receptors	partOf	reactome	R-HSA-9006931	Signaling by Nuclear Receptors	manual	compath
+wikipathways	WP170	Nuclear Receptors	partOf	reactome	R-HSA-383280	Nuclear Receptor transcription pathway	manual	compath
+reactome	R-HSA-383280	Nuclear Receptor transcription pathway	partOf	wikipathways	WP170	Nuclear Receptors	manual	compath
+wikipathways	WP299	Nuclear Receptors in Lipid Metabolism and Toxicity	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP299	Nuclear Receptors in Lipid Metabolism and Toxicity	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP404	Nucleotide Metabolism	skos:exactMatch	reactome	R-HSA-15869	Metabolism of nucleotides	manual	compath
+wikipathways	WP241	One Carbon Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2190	None	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3940	One carbon metabolism and related pathways	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-211999	CYP2E1 reactions	partOf	wikipathways	WP43	Oxidation by Cytochrome P450	manual	compath
+reactome	R-HSA-211897	Cytochrome P450 - arranged by substrate type	partOf	wikipathways	WP43	Oxidation by Cytochrome P450	manual	compath
+reactome	R-HSA-111471	Apoptotic factor-mediated response	partOf	wikipathways	WP3941	Oxidative Damage	manual	compath
+wikipathways	WP408	Oxidative Stress	partOf	reactome	R-HSA-2262752	Cellular responses to stress	manual	compath
+wikipathways	WP408	Oxidative Stress	partOf	reactome	R-HSA-8953897	Cellular responses to external stimuli	manual	compath
+reactome	R-HSA-2559580	Oxidative Stress Induced Senescence	partOf	wikipathways	WP408	Oxidative Stress	manual	compath
+wikipathways	WP623	Oxidative phosphorylation	skos:exactMatch	reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling	manual	compath
+wikipathways	WP2526	PDGF Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2526	PDGF Pathway	partOf	reactome	R-HSA-76002	Platelet activation, signaling and aggregation	manual	compath
+reactome	R-HSA-1257604	PIP3 activates AKT signaling	partOf	wikipathways	WP3844	PI3K-AKT-mTOR signaling pathway and therapeutic opportunities	manual	compath
+wikipathways	WP4172	PI3K-Akt Signaling Pathway	skos:exactMatch	reactome	R-HSA-198203	PI3K/AKT activation	manual	compath
+wikipathways	WP2878	PPAR Alpha Pathway	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP2878	PPAR Alpha Pathway	partOf	reactome	R-HSA-1989781	PPARA activates gene expression	manual	compath
+wikipathways	WP2878	PPAR Alpha Pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3942	PPAR signaling pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP3942	PPAR signaling pathway	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+reactome	R-HSA-5619081	Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)	partOf	wikipathways	WP2371	Parkinsons Disease Pathway	manual	compath
+wikipathways	WP134	Pentose Phosphate Metabolism	skos:exactMatch	reactome	R-HSA-71336	Pentose phosphate pathway	manual	compath
+wikipathways	WP24	Peptide GPCRs	partOf	reactome	R-HSA-372790	Signaling by GPCR	manual	compath
+wikipathways	WP24	Peptide GPCRs	partOf	reactome	R-HSA-388396	GPCR downstream signalling	manual	compath
+wikipathways	WP24	Peptide GPCRs	partOf	reactome	R-HSA-500792	GPCR ligand binding	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	reactome	R-HSA-8978868	Fatty acid metabolism	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	reactome	R-HSA-390247	Beta-oxidation of very long chain fatty acids	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	reactome	R-HSA-390918	Peroxisomal lipid metabolism	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP1941	Peroxisomal beta-oxidation of tetracosanoyl-CoA	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+wikipathways	WP136	Phase I biotransformations, non P450	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP690	Polyol Pathway	partOf	reactome	R-HSA-5652084	Fructose metabolism	manual	compath
+wikipathways	WP690	Polyol Pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP690	Polyol Pathway	partOf	reactome	R-HSA-71387	Metabolism of carbohydrates	manual	compath
+wikipathways	WP2037	Prolactin Signaling Pathway	skos:exactMatch	reactome	R-HSA-1170546	Prolactin receptor signaling	manual	compath
+reactome	R-HSA-140180	COX reactions	partOf	wikipathways	WP98	Prostaglandin Synthesis and Regulation	manual	compath
+wikipathways	WP98	Prostaglandin Synthesis and Regulation	partOf	reactome	R-HSA-556833	Metabolism of lipids	manual	compath
+reactome	R-HSA-391903	Eicosanoid ligand-binding receptors	partOf	wikipathways	WP98	Prostaglandin Synthesis and Regulation	manual	compath
+reactome	R-HSA-2162123	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	partOf	wikipathways	WP98	Prostaglandin Synthesis and Regulation	manual	compath
+reactome	R-HSA-391908	Prostanoid ligand receptors	partOf	wikipathways	WP98	Prostaglandin Synthesis and Regulation	manual	compath
+wikipathways	WP98	Prostaglandin Synthesis and Regulation	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP183	Proteasome Degradation	partOf	reactome	R-HSA-211733	Regulation of activated PAK-2p34 by proteasome mediated degradation	manual	compath
+reactome	R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	partOf	wikipathways	WP183	Proteasome Degradation	manual	compath
+reactome	R-HSA-500753	Pyrimidine biosynthesis	partOf	wikipathways	WP4022	Pyrimidine metabolism	manual	compath
+reactome	R-HSA-73621	Pyrimidine catabolism	partOf	wikipathways	WP4022	Pyrimidine metabolism	manual	compath
+wikipathways	WP4022	Pyrimidine metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-73614	Pyrimidine salvage	partOf	wikipathways	WP4022	Pyrimidine metabolism	manual	compath
+wikipathways	WP3865	Novel intracellular components of RIG-I-like receptor (RLR) pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP3865	Novel intracellular components of RIG-I-like receptor (RLR) pathway	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+reactome	R-HSA-171007	p38MAPK events	partOf	wikipathways	WP3303	RAC1/PAK1/p38/MMP2 Pathway	manual	compath
+wikipathways	WP3872	Regulation of Apoptosis by Parathyroid Hormone-related Protein	partOf	reactome	R-HSA-109581	Apoptosis	manual	compath
+wikipathways	WP3872	Regulation of Apoptosis by Parathyroid Hormone-related Protein	partOf	reactome	R-HSA-5357801	Programmed Cell Death	manual	compath
+wikipathways	WP3664	Regulation of Wnt/B-catenin Signaling by Small Molecule Compounds	partOf	reactome	R-HSA-195721	Signaling by WNT	manual	compath
+reactome	R-HSA-166020	Transfer of LPS from LBP carrier to CD14	partOf	wikipathways	WP1449	Regulation of toll-like receptor signaling pathway	manual	compath
+reactome	R-HSA-195399	VEGF binds to VEGFR leading to receptor dimerization	partOf	wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	manual	compath
+reactome	R-HSA-194138	Signaling by VEGF	partOf	wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	manual	compath
+reactome	R-HSA-4420097	VEGFA-VEGFR2 Pathway	partOf	wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	manual	compath
+reactome	R-HSA-194313	VEGF ligand-receptor interactions	partOf	wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	manual	compath
+reactome	R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	partOf	wikipathways	WP2011	SREBF and miR33 in cholesterol and lipid homeostasis	manual	compath
+reactome	R-HSA-2408508	Metabolism of ingested SeMet, Sec, MeSec into H2Se	partOf	wikipathways	WP28	None	manual	compath
+wikipathways	WP28	None	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-2408522	Selenoamino acid metabolism	partOf	wikipathways	WP28	None	manual	compath
+reactome	R-HSA-392499	Metabolism of proteins	partOf	wikipathways	WP28	None	manual	compath
+reactome	R-HSA-5263617	Metabolism of ingested MeSeO2H into MeSeH	partOf	wikipathways	WP28	None	manual	compath
+reactome	R-HSA-2408550	Metabolism of ingested H2SeO4 and H2SeO3 into H2Se	partOf	wikipathways	WP28	None	manual	compath
+reactome	R-HSA-2408550	Metabolism of ingested H2SeO4 and H2SeO3 into H2Se	partOf	wikipathways	WP15	Selenium Micronutrient Network	manual	compath
+wikipathways	WP733	Serotonin Receptor 2 and STAT3 Signaling	partOf	reactome	R-HSA-388396	GPCR downstream signalling	manual	compath
+wikipathways	WP733	Serotonin Receptor 2 and STAT3 Signaling	partOf	reactome	R-HSA-416476	G alpha (q) signalling events	manual	compath
+wikipathways	WP733	Serotonin Receptor 2 and STAT3 Signaling	partOf	reactome	R-HSA-390666	Serotonin receptors	manual	compath
+wikipathways	WP733	Serotonin Receptor 2 and STAT3 Signaling	partOf	reactome	R-HSA-372790	Signaling by GPCR	manual	compath
+wikipathways	WP734	Serotonin Receptor 4/6/7 and NR3C Signaling	partOf	reactome	R-HSA-390666	Serotonin receptors	manual	compath
+wikipathways	WP1455	Serotonin Transporter Activity	partOf	reactome	R-HSA-380615	Serotonin clearance from the synaptic cleft	manual	compath
+wikipathways	WP26	Signal Transduction of S1P Receptor	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+reactome	R-HSA-975155	MyD88 dependent cascade initiated on endosome	partOf	wikipathways	WP3877	Simplified Depiction of MYD88 Distinct Input-Output Pathway	manual	compath
+reactome	R-HSA-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	partOf	wikipathways	WP3877	Simplified Depiction of MYD88 Distinct Input-Output Pathway	manual	compath
+wikipathways	WP247	Small Ligand GPCRs	partOf	reactome	R-HSA-162582	Signal Transduction	manual	compath
+wikipathways	WP247	Small Ligand GPCRs	partOf	reactome	R-HSA-372790	Signaling by GPCR	manual	compath
+wikipathways	WP247	Small Ligand GPCRs	partOf	reactome	R-HSA-388396	GPCR downstream signalling	manual	compath
+wikipathways	WP247	Small Ligand GPCRs	partOf	reactome	R-HSA-500792	GPCR ligand binding	manual	compath
+wikipathways	WP1422	Sphingolipid pathway	skos:exactMatch	reactome	R-HSA-428157	Sphingolipid metabolism	manual	compath
+wikipathways	WP496	Steroid Biosynthesis	partOf	reactome	R-HSA-8957322	Metabolism of steroids	manual	compath
+wikipathways	WP496	Steroid Biosynthesis	partOf	reactome	R-HSA-196071	Metabolism of steroid hormones	manual	compath
+reactome	R-HSA-193048	Androgen biosynthesis	partOf	wikipathways	WP496	Steroid Biosynthesis	manual	compath
+reactome	R-HSA-193144	Estrogen biosynthesis	partOf	wikipathways	WP496	Steroid Biosynthesis	manual	compath
+reactome	R-HSA-191273	Cholesterol biosynthesis	partOf	wikipathways	WP496	Steroid Biosynthesis	manual	compath
+reactome	R-HSA-193993	Mineralocorticoid biosynthesis	partOf	wikipathways	WP496	Steroid Biosynthesis	manual	compath
+reactome	R-HSA-194002	Glucocorticoid biosynthesis	partOf	wikipathways	WP496	Steroid Biosynthesis	manual	compath
+wikipathways	WP496	Steroid Biosynthesis	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	partOf	wikipathways	WP1982	Sterol Regulatory Element-Binding Proteins (SREBP) signalling	manual	compath
+reactome	R-HSA-2426168	Activation of gene expression by SREBF (SREBP)	partOf	wikipathways	WP1982	Sterol Regulatory Element-Binding Proteins (SREBP) signalling	manual	compath
+wikipathways	WP383	Striated Muscle Contraction Pathway	skos:exactMatch	reactome	R-HSA-390522	Striated Muscle Contraction	manual	compath
+wikipathways	WP2637	Structural Pathway of Interleukin 1 (IL-1)	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2637	Structural Pathway of Interleukin 1 (IL-1)	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP2637	Structural Pathway of Interleukin 1 (IL-1)	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP2637	Structural Pathway of Interleukin 1 (IL-1)	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP692	Sulfation Biotransformation Reaction	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-264642	Acetylcholine Neurotransmitter Release Cycle	partOf	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+reactome	R-HSA-888590	GABA synthesis, release, reuptake and degradation	partOf	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+reactome	R-HSA-181430	Norepinephrine Neurotransmitter Release Cycle	partOf	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+reactome	R-HSA-181429	Serotonin Neurotransmitter Release Cycle	partOf	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+wikipathways	WP2267	Synaptic Vesicle Pathway	partOf	reactome	R-HSA-112316	Neuronal System	manual	compath
+reactome	R-HSA-212676	Dopamine Neurotransmitter Release Cycle	partOf	wikipathways	WP2267	Synaptic Vesicle Pathway	manual	compath
+wikipathways	WP311	Synthesis and Degradation of Ketone Bodies	skos:exactMatch	reactome	R-HSA-74182	Ketone body metabolism	manual	compath
+wikipathways	WP2583	T-Cell Receptor and Co-stimulatory Signaling	partOf	reactome	R-HSA-1280218	Adaptive Immune System	manual	compath
+wikipathways	WP2583	T-Cell Receptor and Co-stimulatory Signaling	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP69	T-Cell antigen Receptor (TCR)  Signaling Pathway	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP69	T-Cell antigen Receptor (TCR)  Signaling Pathway	partOf	reactome	R-HSA-1280218	Adaptive Immune System	manual	compath
+wikipathways	WP78	TCA Cycle (aka Krebs or citric acid cycle)	skos:exactMatch	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)	manual	compath
+wikipathways	WP3859	TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition	skos:exactMatch	reactome	R-HSA-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	manual	compath
+wikipathways	WP560	TGF-beta Receptor Signaling	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGFB family members	manual	compath
+wikipathways	WP366	TGF-beta Signaling Pathway	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGFB family members	manual	compath
+reactome	R-HSA-166016	Toll Like Receptor 4 (TLR4) Cascade	partOf	wikipathways	WP3851	TLR4 Signaling and Tolerance	manual	compath
+wikipathways	WP3851	TLR4 Signaling and Tolerance	partOf	reactome	R-HSA-168249	Innate Immune System	manual	compath
+wikipathways	WP3851	TLR4 Signaling and Tolerance	partOf	reactome	R-HSA-168898	Toll-like Receptor Cascades	manual	compath
+wikipathways	WP691	Tamoxifen metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP1471	Target Of Rapamycin (TOR) Signaling	skos:exactMatch	reactome	R-HSA-165159	MTOR signalling	manual	compath
+wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production	skos:exactMatch	reactome	R-HSA-209968	Thyroxine biosynthesis	manual	compath
+wikipathways	WP3858	Toll-like Receptor Signaling related to MyD88	skos:exactMatch	reactome	R-HSA-168898	Toll-like Receptor Cascades	manual	compath
+wikipathways	WP75	Toll-like Receptor Signaling Pathway	skos:exactMatch	reactome	R-HSA-168898	Toll-like Receptor Cascades	manual	compath
+wikipathways	WP2525	Trans-sulfuration and one carbon metabolism	partOf	reactome	R-HSA-163685	Integration of energy metabolism	manual	compath
+wikipathways	WP2525	Trans-sulfuration and one carbon metabolism	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+reactome	R-HSA-1614603	Cysteine formation from homocysteine	partOf	wikipathways	WP2525	Trans-sulfuration and one carbon metabolism	manual	compath
+wikipathways	WP2525	Trans-sulfuration and one carbon metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2333	Trans-sulfuration pathway	skos:exactMatch	reactome	R-HSA-1614603	Cysteine formation from homocysteine	manual	compath
+wikipathways	WP2333	Trans-sulfuration pathway	partOf	reactome	R-HSA-1614635	Sulfur amino acid metabolism	manual	compath
+wikipathways	WP2333	Trans-sulfuration pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP2333	Trans-sulfuration pathway	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	partOf	wikipathways	WP3599	Transcription factor regulation in adipogenesis	manual	compath
+wikipathways	WP3599	Transcription factor regulation in adipogenesis	partOf	reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	manual	compath
+reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	partOf	wikipathways	WP4211	Transcriptional cascade regulating adipogenesis	manual	compath
+wikipathways	WP4211	Transcriptional cascade regulating adipogenesis	partOf	reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	manual	compath
+wikipathways	WP107	Translation Factors	partOf	reactome	R-HSA-72613	Eukaryotic Translation Initiation	manual	compath
+wikipathways	WP107	Translation Factors	partOf	reactome	R-HSA-72766	Translation	manual	compath
+wikipathways	WP325	Triacylglyceride Synthesis	skos:exactMatch	reactome	R-HSA-75109	Triglyceride biosynthesis	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-196807	Nicotinate metabolism	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-71240	Tryptophan catabolism	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	manual	compath
+wikipathways	WP4210	Tryptophan catabolism leading to NAD+ production	partOf	reactome	R-HSA-6788656	None	manual	compath
+reactome	R-HSA-71240	Tryptophan catabolism	partOf	wikipathways	WP465	Tryptophan metabolism	manual	compath
+wikipathways	WP465	Tryptophan metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP619	Type II interferon signaling (IFNG)	skos:exactMatch	reactome	R-HSA-877300	Interferon gamma signaling	manual	compath
+wikipathways	WP2113	Type III interferon signaling	partOf	reactome	R-HSA-449147	Signaling by Interleukins	manual	compath
+wikipathways	WP2113	Type III interferon signaling	partOf	reactome	R-HSA-449836	Other interleukin signaling	manual	compath
+wikipathways	WP2113	Type III interferon signaling	partOf	reactome	R-HSA-1280215	Cytokine Signaling in Immune system	manual	compath
+wikipathways	WP2113	Type III interferon signaling	partOf	reactome	R-HSA-168256	Immune System	manual	compath
+wikipathways	WP2113	Type III interferon signaling	partOf	reactome	R-HSA-913531	Interferon Signaling	manual	compath
+wikipathways	WP497	Urea cycle and metabolism of amino groups	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-70635	Urea cycle	partOf	wikipathways	WP497	Urea cycle and metabolism of amino groups	manual	compath
+wikipathways	WP497	Urea cycle and metabolism of amino groups	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway	skos:exactMatch	reactome	R-HSA-4420097	VEGFA-VEGFR2 Pathway	manual	compath
+wikipathways	WP3871	Valproic acid pathway	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-5365859	RA biosynthesis pathway	partOf	wikipathways	WP716	Vitamin A and Carotenoid Metabolism	manual	compath
+wikipathways	WP716	Vitamin A and Carotenoid Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP716	Vitamin A and Carotenoid Metabolism	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP1533	Vitamin B12 Metabolism	partOf	reactome	R-HSA-196741	Cobalamin (Cbl, vitamin B12) transport and metabolism	manual	compath
+wikipathways	WP1533	Vitamin B12 Metabolism	partOf	reactome	R-HSA-1430728	Metabolism	manual	compath
+reactome	R-HSA-3296469	Defects in cobalamin (B12) metabolism	partOf	wikipathways	WP1533	Vitamin B12 Metabolism	manual	compath
+wikipathways	WP1533	Vitamin B12 Metabolism	partOf	reactome	R-HSA-196854	Metabolism of vitamins and cofactors	manual	compath
+wikipathways	WP1531	Vitamin D Metabolism	skos:exactMatch	reactome	R-HSA-196791	Vitamin D (calciferol) metabolism	manual	compath
+reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	partOf	wikipathways	WP4149	White fat cell differentiation	manual	compath
+wikipathways	WP4149	White fat cell differentiation	partOf	reactome	R-HSA-1266738	Developmental Biology	manual	compath
+wikipathways	WP428	Wnt Signaling	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT	manual	compath
+reactome	R-HSA-195721	Signaling by WNT	partOf	wikipathways	WP399	Wnt Signaling Pathway and Pluripotency	manual	compath
+reactome	R-HSA-435368	Zinc efflux and compartmentalization by the SLC30 family	partOf	wikipathways	WP3529	Zinc homeostasis	manual	compath
+reactome	R-HSA-442380	Zinc influx into cells by the SLC39 gene family	partOf	wikipathways	WP3529	Zinc homeostasis	manual	compath
+reactome	R-HSA-435354	Zinc transporters	partOf	wikipathways	WP3529	Zinc homeostasis	manual	compath
+wikipathways	WP411	mRNA Processing	partOf	reactome	R-HSA-72172	mRNA Splicing	manual	compath
+reactome	R-HSA-194441	Metabolism of non-coding RNA	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+reactome	R-HSA-72172	mRNA Splicing	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+reactome	R-HSA-75067	Processing of Capped Intronless Pre-mRNA	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+wikipathways	WP411	mRNA Processing	partOf	reactome	R-HSA-8953854	Metabolism of RNA	manual	compath
+reactome	R-HSA-72187	mRNA 3'-end processing	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+reactome	R-HSA-72163	mRNA Splicing - Major Pathway	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+reactome	R-HSA-72165	mRNA Splicing - Minor Pathway	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+reactome	R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+reactome	R-HSA-77595	Processing of Intronless Pre-mRNAs	partOf	wikipathways	WP411	mRNA Processing	manual	compath
+wikipathways	WP2338	miRNA Biogenesis	skos:exactMatch	reactome	R-HSA-203927	MicroRNA (miRNA) biogenesis	manual	compath
+wikipathways	WP400	p38 MAPK Signaling Pathway	skos:exactMatch	reactome	R-HSA-171007	p38MAPK events	manual	compath
+wikipathways	WP4524	The alternative pathway of fetal androgen synthesis	partOf	reactome	R-HSA-193048	Androgen biosynthesis	manual	compath
+wikipathways	WP4297	Thiamine metabolic pathways	partOf	reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism	manual	compath
+wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis	skos:exactMatch	reactome	R-HSA-947581	Molybdenum cofactor biosynthesis	manual	compath
+wikipathways	WP4506	Tyrosine Metabolism	skos:exactMatch	reactome	R-HSA-1430728	Metabolism	manual	compath
+wikipathways	WP4506	Tyrosine Metabolism	partOf	reactome	R-HSA-71291	Metabolism of amino acids and derivatives	manual	compath
+wikipathways	WP4537	Hippo-Yap signaling pathway	partOf	reactome	R-HSA-2028269	Signaling by Hippo	manual	compath
+wikipathways	WP428	Wnt Signaling	skos:exactMatch	wikipathways	WP363	Wnt Signaling Pathway (Netpath)	manual	compath
+wikipathways	WP61	Notch Signaling Pathway Netpath	skos:exactMatch	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	manual	compath
+wikipathways	WP106	Alanine and aspartate metabolism	partOf	wikipathways	WP3925	Amino Acid metabolism	manual	compath
+wikipathways	WP384	Apoptosis Modulation by HSP70	partOf	wikipathways	WP254	Apoptosis	manual	compath
+wikipathways	WP1772	Apoptosis Modulation and Signaling	partOf	wikipathways	WP254	Apoptosis	manual	compath
+wikipathways	WP2507	Nanomaterial induced apoptosis	partOf	wikipathways	WP254	Apoptosis	manual	compath
+wikipathways	WP45	G1 to S cell cycle control	partOf	wikipathways	WP179	Cell Cycle	manual	compath
+wikipathways	WP2453	TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc)	partOf	wikipathways	WP78	TCA Cycle (aka Krebs or citric acid cycle)	manual	compath
+wikipathways	WP545	Complement Activation	partOf	wikipathways	WP558	Complement and Coagulation Cascades	manual	compath
+wikipathways	WP75	Toll-like Receptor Signaling Pathway	skos:exactMatch	wikipathways	WP3858	Toll-like Receptor Signaling related to MyD88	manual	compath
+wikipathways	WP501	GPCRs, Class C Metabotropic glutamate, pheromone	partOf	wikipathways	WP117	GPCRs, Other	manual	compath
+wikipathways	WP455	GPCRs, Class A Rhodopsin-like	partOf	wikipathways	WP117	GPCRs, Other	manual	compath
+wikipathways	WP334	GPCRs, Class B Secretin-like	partOf	wikipathways	WP117	GPCRs, Other	manual	compath
+wikipathways	WP58	Monoamine GPCRs	partOf	wikipathways	WP455	GPCRs, Class A Rhodopsin-like	manual	compath
+wikipathways	WP422	MAPK Cascade	partOf	wikipathways	WP382	MAPK Signaling Pathway	manual	compath
+wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway	skos:exactMatch	wikipathways	WP2586	Aryl Hydrocarbon Receptor Netpath	manual	compath
+wikipathways	WP47	Hedgehog Signaling Pathway Netpath	skos:exactMatch	wikipathways	WP4249	Hedgehog Signaling Pathway	manual	compath

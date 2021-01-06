@@ -1,0 +1,578 @@
+source prefix	source identifier	source name	relation	target prefix	target identifier	target name	type	source
+wikipathways	WP1266	SIDS Susceptibility Pathways	aboutDisease	doid	9007	sudden infant death syndrome	manual	wikipathways
+wikipathways	WP1	Statin Pathway	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP202	Hypertrophy Model	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP2140	Serotonin and anxiety-related events	aboutDisease	doid	2030	anxiety disorder	manual	wikipathways
+wikipathways	WP2432	Spinal Cord Injury	aboutDisease	doid	2055	post-traumatic stress disorder	manual	wikipathways
+wikipathways	WP2432	Spinal Cord Injury	aboutDisease	doid	319	spinal cord disease	manual	wikipathways
+wikipathways	WP3855	Dysregulated miRNA Targeting in Insulin/PI3K-AKT Signaling	aboutDisease	doid	10603	glucose intolerance	manual	wikipathways
+wikipathways	WP3855	Dysregulated miRNA Targeting in Insulin/PI3K-AKT Signaling	aboutDisease	doid	9352	type 2 diabetes mellitus	manual	wikipathways
+wikipathways	WP3857	Wnt Signaling in Kidney Disease	aboutDisease	doid	557	kidney disease	manual	wikipathways
+wikipathways	WP4627	Lipids measured in liver metastasis from breast cancer	aboutDisease	doid	1612	breast cancer	manual	wikipathways
+wikipathways	WP4835	Peroxiredoxin 2 induced ovarian failure	aboutDisease	doid	1414	ovarian dysfunction	manual	wikipathways
+wikipathways	WP553	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP683	Leptin and adiponectin	aboutDisease	doid	4194	glucose metabolism disease	manual	wikipathways
+wikipathways	WP3678	Amplification and Expansion of Oncogenic Pathways as Metastatic Traits	aboutDisease	doid	14175	von Hippel-Lindau disease	manual	wikipathways
+wikipathways	WP3678	Amplification and Expansion of Oncogenic Pathways as Metastatic Traits	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3859	TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition	aboutDisease	doid	1781	thyroid gland cancer	manual	wikipathways
+wikipathways	WP3934	Leptin and adiponectin	aboutDisease	doid	4194	glucose metabolism disease	manual	wikipathways
+wikipathways	WP3965	Lipid Metabolism Pathway	aboutDisease	doid	9970	obesity	manual	wikipathways
+wikipathways	WP3982	miRNA regulation of p53 pathway in prostate cancer	aboutDisease	doid	10283	prostate cancer	manual	wikipathways
+wikipathways	WP690	Polyol Pathway	aboutDisease	doid	9351	diabetes mellitus	manual	wikipathways
+wikipathways	WP691	Tamoxifen metabolism	aboutDisease	doid	0060075	estrogen-receptor positive breast cancer	manual	wikipathways
+wikipathways	WP2431	Spinal Cord Injury	aboutDisease	doid	2055	post-traumatic stress disorder	manual	wikipathways
+wikipathways	WP2431	Spinal Cord Injury	aboutDisease	doid	319	spinal cord disease	manual	wikipathways
+wikipathways	WP2870	Extracellular vesicle-mediated signaling in recipient cells	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2870	Extracellular vesicle-mediated signaling in recipient cells	aboutDisease	doid	863	nervous system disease	manual	wikipathways
+wikipathways	WP3584	MECP2 and Associated Rett Syndrome	aboutDisease	doid	1206	Rett syndrome	manual	wikipathways
+wikipathways	WP3926	ApoE and miR-146 in inflammation and atherosclerosis	aboutDisease	doid	1936	atherosclerosis	manual	wikipathways
+wikipathways	WP4299	Lamin A-processing pathway	aboutDisease	doid	3911	progeria	manual	wikipathways
+wikipathways	WP4299	Lamin A-processing pathway	aboutDisease	doid	4	disease	manual	wikipathways
+wikipathways	WP4352	Ciliary landscape	aboutDisease	doid	0060340	ciliopathy	manual	wikipathways
+wikipathways	WP4673	Genes involved in male infertility	aboutDisease	doid	12336	male infertility	manual	wikipathways
+wikipathways	WP4829	mBDNF and proBDNF regulation of GABA neurotransmission	aboutDisease	doid	1826	epilepsy	manual	wikipathways
+wikipathways	WP3613	Photodynamic therapy-induced unfolded protein response	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3614	Photodynamic therapy-induced HIF-1 survival signaling	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3617	Photodynamic therapy-induced NF-kB survival signaling	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4255	Non-small cell lung cancer	aboutDisease	doid	1324	lung cancer	manual	wikipathways
+wikipathways	WP4336	ncRNAs involved in Wnt signaling in hepatocellular carcinoma	aboutDisease	doid	684	hepatocellular carcinoma	manual	wikipathways
+wikipathways	WP4396	Nonalcoholic fatty liver disease	aboutDisease	doid	0080208	non-alcoholic fatty liver disease	manual	wikipathways
+wikipathways	WP4481	Resistin as a regulator of inflammation	aboutDisease	doid	0050117	disease by infectious agent	manual	wikipathways
+wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis	aboutDisease	doid	0111163	molybdenum cofactor deficiency type B	manual	wikipathways
+wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis	aboutDisease	doid	0111165	molybdenum cofactor deficiency	manual	wikipathways
+wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis	aboutDisease	doid	0111166	molybdenum cofactor deficiency type C	manual	wikipathways
+wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis	aboutDisease	doid	0060236	xanthinuria	manual	wikipathways
+wikipathways	WP4789	MED and Pseudoachondroplasia genes	aboutDisease	doid	0080047	pseudoachondroplasia	manual	wikipathways
+wikipathways	WP4790	FGF23 signalling in Hypophosphatemic rickets and related disorders	aboutDisease	doid	0050445	X-linked dominant hypophosphatemic rickets	manual	wikipathways
+wikipathways	WP4876	Activation of NLRP3 Inflammasome by SARS-CoV-2	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4876	Activation of NLRP3 Inflammasome by SARS-CoV-2	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4906	3q29 copy number variation syndrome	aboutDisease	doid	0060419	chromosome 3q29 microdeletion syndrome	manual	wikipathways
+wikipathways	WP4906	3q29 copy number variation syndrome	aboutDisease	doid	0060459	chromosome 3q29 microduplication syndrome	manual	wikipathways
+wikipathways	WP4906	3q29 copy number variation syndrome	aboutDisease	doid	0080014	chromosomal disease	manual	wikipathways
+wikipathways	WP4906	3q29 copy number variation syndrome	aboutDisease	doid	150	disease of mental health	manual	wikipathways
+wikipathways	WP1601	Fluoropyrimidine Activity	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2795	Cardiac Hypertrophic Response	aboutDisease	doid	11984	hypertrophic cardiomyopathy	manual	wikipathways
+wikipathways	WP3593	MicroRNA for Targeting Cancer Growth and Vascularization in Glioblastoma	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4150	Wnt Signaling in Kidney Disease	aboutDisease	doid	557	kidney disease	manual	wikipathways
+wikipathways	WP4204	Tumor suppressor activity of SMARCB1	aboutDisease	doid	4451	renal carcinoma	manual	wikipathways
+wikipathways	WP4220	Neurotransmitter Disorders	aboutDisease	doid	0090123	aromatic L-amino acid decarboxylase deficiency	manual	wikipathways
+wikipathways	WP4220	Neurotransmitter Disorders	aboutDisease	doid	0090145	dopamine beta-hydroxylase deficiency	manual	wikipathways
+wikipathways	WP4239	Epithelial to mesenchymal transition in colorectal cancer	aboutDisease	doid	14566	disease of cellular proliferation	manual	wikipathways
+wikipathways	WP4239	Epithelial to mesenchymal transition in colorectal cancer	aboutDisease	doid	9256	colorectal cancer	manual	wikipathways
+wikipathways	WP4288	MTHFR deficiency	aboutDisease	doid	655	inherited metabolic disorder	manual	wikipathways
+wikipathways	WP4397	Model for regulation of MSMP expression in cancer cells and its proangiogenic role in ovarian tumors	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP4462	Platelet-mediated interactions with vascular and circulating cells	aboutDisease	doid	0060903	thrombosis	manual	wikipathways
+wikipathways	WP4656	Joubert Syndrome	aboutDisease	doid	0050777	Joubert syndrome	manual	wikipathways
+wikipathways	WP4758	Nephrotic syndrome	aboutDisease	doid	557	kidney disease	manual	wikipathways
+wikipathways	WP4830	GDNF/RET signalling axis	aboutDisease	doid	0080205	CAKUT	manual	wikipathways
+wikipathways	WP536	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP4844	The influence of laminopathies on Wnt signaling	aboutDisease	doid	3911	progeria	manual	wikipathways
+wikipathways	WP4971	Phosphoinositides metabolism	aboutDisease	doid	1056	oculocerebrorenal syndrome	manual	wikipathways
+wikipathways	WP4971	Phosphoinositides metabolism	aboutDisease	doid	14717	centronuclear myopathy	manual	wikipathways
+wikipathways	WP4971	Phosphoinositides metabolism	aboutDisease	doid	0060448	Fleck corneal dystrophy	manual	wikipathways
+wikipathways	WP4971	Phosphoinositides metabolism	aboutDisease	doid	0110191	Charcot-Marie-Tooth disease type 4B1	manual	wikipathways
+wikipathways	WP3260	Integrated Breast Cancer Pathway	aboutDisease	doid	1612	breast cancer	manual	wikipathways
+wikipathways	WP4904	LDLRAD4 and what we know about it	aboutDisease	doid	0050117	disease by infectious agent	manual	wikipathways
+wikipathways	WP1904	None	aboutDisease	doid	8469	influenza	manual	wikipathways
+wikipathways	WP1904	None	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP1984	Integrated Breast Cancer Pathway	aboutDisease	doid	1612	breast cancer	manual	wikipathways
+wikipathways	WP4949	16p11.2 proximal deletion syndrome	aboutDisease	doid	0060398	chromosome 16p11.2 deletion syndrome	manual	wikipathways
+wikipathways	WP4949	16p11.2 proximal deletion syndrome	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP5021	None	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP5021	None	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4453	None	aboutDisease	doid	1206	Rett syndrome	manual	wikipathways
+wikipathways	WP4874	CAMKK2  Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4932	7q11.23 copy number variation syndrome	aboutDisease	doid	1928	Williams-Beuren syndrome	manual	wikipathways
+wikipathways	WP4932	7q11.23 copy number variation syndrome	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP4961	STING pathway in Kawasaki-like disease and COVID-19	aboutDisease	doid	13378	Kawasaki disease	manual	wikipathways
+wikipathways	WP4961	STING pathway in Kawasaki-like disease and COVID-19	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4157	None	aboutDisease	doid	0060175	succinic semialdehyde dehydrogenase deficiency	manual	wikipathways
+wikipathways	WP4313	Ferroptosis	aboutDisease	doid	1826	epilepsy	manual	wikipathways
+wikipathways	WP4804	Cholesterol Biosynthesis with Skeletal Dysplasias	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP2491	Diclofenac Metabolic Pathway	aboutDisease	doid	4	disease	manual	wikipathways
+wikipathways	WP4965	Deregulation of the Renin Angiotensin system by Sars-CoV infection	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4965	Deregulation of the Renin Angiotensin system by Sars-CoV infection	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4883	SARS-CoV-2 and Angiotensin-converting enzyme 2 receptor: molecular mechanisms	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4883	SARS-CoV-2 and Angiotensin-converting enzyme 2 receptor: molecular mechanisms	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP2665	None	aboutDisease	doid	104	bacterial infectious disease	manual	wikipathways
+wikipathways	WP3998	Prader-Willi and Angelman Syndrome	aboutDisease	doid	11983	Prader-Willi syndrome	manual	wikipathways
+wikipathways	WP3998	Prader-Willi and Angelman Syndrome	aboutDisease	doid	1932	Angelman syndrome	manual	wikipathways
+wikipathways	WP4846	SARS-CoV-2 and COVID-19 Pathway	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4846	SARS-CoV-2 and COVID-19 Pathway	aboutDisease	doid	0050117	disease by infectious agent	manual	wikipathways
+wikipathways	WP4905	1q21.1 copy number variation syndrome	aboutDisease	doid	1470	major depressive disorder	manual	wikipathways
+wikipathways	WP4905	1q21.1 copy number variation syndrome	aboutDisease	doid	0060411	chromosome 1q21.1 deletion syndrome	manual	wikipathways
+wikipathways	WP4905	1q21.1 copy number variation syndrome	aboutDisease	doid	0060435	chromosome 1q21.1 duplication syndrome	manual	wikipathways
+wikipathways	WP4905	1q21.1 copy number variation syndrome	aboutDisease	doid	0080014	chromosomal disease	manual	wikipathways
+wikipathways	WP4905	1q21.1 copy number variation syndrome	aboutDisease	doid	3312	bipolar disorder	manual	wikipathways
+wikipathways	WP4905	1q21.1 copy number variation syndrome	aboutDisease	doid	5419	schizophrenia	manual	wikipathways
+wikipathways	WP1043	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP1044	ErbB Signaling Pathway	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP1044	ErbB Signaling Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP1044	ErbB Signaling Pathway	aboutDisease	doid	2377	multiple sclerosis	manual	wikipathways
+wikipathways	WP1054	Polyol Pathway	aboutDisease	doid	9351	diabetes mellitus	manual	wikipathways
+wikipathways	WP3117	Type II diabetes mellitus	aboutDisease	doid	4195	hyperglycemia	manual	wikipathways
+wikipathways	WP3117	Type II diabetes mellitus	aboutDisease	doid	9352	type 2 diabetes mellitus	manual	wikipathways
+wikipathways	WP3121	Physiological and Pathological Hypertrophy  of the Heart	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP3129	Bladder Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3129	Bladder Cancer	aboutDisease	doid	365	bladder disease	manual	wikipathways
+wikipathways	WP3161	Extracellular vesicle-mediated signaling in recipient cells	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3161	Extracellular vesicle-mediated signaling in recipient cells	aboutDisease	doid	863	nervous system disease	manual	wikipathways
+wikipathways	WP3162	Vitamin D Metabolism	aboutDisease	doid	10573	osteomalacia	manual	wikipathways
+wikipathways	WP3162	Vitamin D Metabolism	aboutDisease	doid	10609	rickets	manual	wikipathways
+wikipathways	WP3166	Gastric Cancer Network 1	aboutDisease	doid	10534	stomach cancer	manual	wikipathways
+wikipathways	WP3166	Gastric Cancer Network 1	aboutDisease	doid	3717	gastric adenocarcinoma	manual	wikipathways
+wikipathways	WP3171	Deregulation of Rab and Rab Effector Genes in Bladder Cancer	aboutDisease	doid	11054	urinary bladder cancer	manual	wikipathways
+wikipathways	WP3186	Spinal Cord Injury	aboutDisease	doid	2055	post-traumatic stress disorder	manual	wikipathways
+wikipathways	WP3186	Spinal Cord Injury	aboutDisease	doid	319	spinal cord disease	manual	wikipathways
+wikipathways	WP3193	Vitamin B12 Metabolism	aboutDisease	doid	13381	pernicious anemia	manual	wikipathways
+wikipathways	WP3200	PDGF Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3223	Differentiation Pathway	aboutDisease	doid	2055	post-traumatic stress disorder	manual	wikipathways
+wikipathways	WP3223	Differentiation Pathway	aboutDisease	doid	319	spinal cord disease	manual	wikipathways
+wikipathways	WP3237	Thyroxine (Thyroid Hormone) Production	aboutDisease	doid	50	thyroid gland disease	manual	wikipathways
+wikipathways	WP3246	Endothelin Pathways	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP3246	Endothelin Pathways	aboutDisease	doid	10913	benign essential hypertension	manual	wikipathways
+wikipathways	WP3252	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer	aboutDisease	doid	15	reproductive system disease	manual	wikipathways
+wikipathways	WP3252	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3259	Metastatic brain tumor	aboutDisease	doid	14566	disease of cellular proliferation	manual	wikipathways
+wikipathways	WP808	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP970	Fatty Acid Omega Oxidation	aboutDisease	doid	3146	lipid metabolism disorder	manual	wikipathways
+wikipathways	WP1528	Physiological and Pathological Hypertrophy  of the Heart	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP3612	Photodynamic therapy-induced NFE2L2 (NRF2) survival signaling	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4284	Ultraconserved region 339 modulation of tumor suppressor microRNAs in cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4524	The alternative pathway of fetal androgen synthesis	aboutDisease	doid	1701	steroid inherited metabolic disorder	manual	wikipathways
+wikipathways	WP4746	Thyroid hormones production and their peripheral downstream signalling effects	aboutDisease	doid	0050328	congenital hypothyroidism	manual	wikipathways
+wikipathways	WP4803	Ciliopathies	aboutDisease	doid	0060340	ciliopathy	manual	wikipathways
+wikipathways	WP615	Senescence and Autophagy in Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP1531	Vitamin D Metabolism	aboutDisease	doid	10573	osteomalacia	manual	wikipathways
+wikipathways	WP1531	Vitamin D Metabolism	aboutDisease	doid	10609	rickets	manual	wikipathways
+wikipathways	WP1971	Integrated Cancer Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2291	Deregulation of Rab and Rab Effector Genes in Bladder Cancer	aboutDisease	doid	11054	urinary bladder cancer	manual	wikipathways
+wikipathways	WP3655	Hypothetical Craniofacial Development Pathway	aboutDisease	doid	9296	cleft lip	manual	wikipathways
+wikipathways	WP3865	Novel intracellular components of RIG-I-like receptor (RLR) pathway	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP3959	DNA IR-Double Strand Breaks (DSBs) and cellular response via ATM	aboutDisease	doid	14566	disease of cellular proliferation	manual	wikipathways
+wikipathways	WP4521	Glycosylation and related congenital defects	aboutDisease	doid	0050737	autosomal recessive disease	manual	wikipathways
+wikipathways	WP4521	Glycosylation and related congenital defects	aboutDisease	doid	5212	congenital disorder of glycosylation	manual	wikipathways
+wikipathways	WP4521	Glycosylation and related congenital defects	aboutDisease	doid	655	inherited metabolic disorder	manual	wikipathways
+wikipathways	WP4540	Pathways Regulating Hippo Signaling	aboutDisease	doid	1790	malignant mesothelioma	manual	wikipathways
+wikipathways	WP4541	Hippo-Merlin Signaling Dysregulation	aboutDisease	doid	1790	malignant mesothelioma	manual	wikipathways
+wikipathways	WP4565	Neural Crest Cell Migration in Cancer	aboutDisease	doid	769	neuroblastoma	manual	wikipathways
+wikipathways	WP4565	Neural Crest Cell Migration in Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP699	Aflatoxin B1 metabolism	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP1742	TP53 Network	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2287	None	aboutDisease	doid	898	autosomal dominant polycystic kidney disease	manual	wikipathways
+wikipathways	WP2848	Differentiation Pathway	aboutDisease	doid	2055	post-traumatic stress disorder	manual	wikipathways
+wikipathways	WP2848	Differentiation Pathway	aboutDisease	doid	319	spinal cord disease	manual	wikipathways
+wikipathways	WP3298	Melatonin metabolism and effects	aboutDisease	doid	0060037	developmental disorder of mental health	manual	wikipathways
+wikipathways	WP3298	Melatonin metabolism and effects	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3298	Melatonin metabolism and effects	aboutDisease	doid	535	sleep disorder	manual	wikipathways
+wikipathways	WP3648	Crystal Toxin Triggered Necrosis Pathway	aboutDisease	doid	9159	gas gangrene	manual	wikipathways
+wikipathways	WP3871	Valproic acid pathway	aboutDisease	doid	1826	epilepsy	manual	wikipathways
+wikipathways	WP3873	RIOK1 and RIOK2 in EGFR- and PI3K-mediated tumorigenesis	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3996	Ethanol effects on histone modifications	aboutDisease	doid	0050696	fetal alcohol spectrum disorder	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	10933	obsessive-compulsive disorder	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	1094	attention deficit hyperactivity disorder	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	11119	Gilles de la Tourette syndrome	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	12858	Huntington's disease	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	14330	Parkinson's disease	manual	wikipathways
+wikipathways	WP4222	Phosphodiesterases in neuronal function	aboutDisease	doid	5419	schizophrenia	manual	wikipathways
+wikipathways	WP4241	Type 2 papillary renal cell carcinoma	aboutDisease	doid	4465	papillary renal cell carcinoma	manual	wikipathways
+wikipathways	WP4553	FBXL10 enhancement of MAP/ERK signaling in diffuse large B-cell lymphoma	aboutDisease	doid	0050745	diffuse large B-cell lymphoma	manual	wikipathways
+wikipathways	WP4553	FBXL10 enhancement of MAP/ERK signaling in diffuse large B-cell lymphoma	aboutDisease	doid	14566	disease of cellular proliferation	manual	wikipathways
+wikipathways	WP4760	PKC-gamma calcium signaling pathway in ataxia	aboutDisease	doid	0050951	hereditary ataxia	manual	wikipathways
+wikipathways	WP4760	PKC-gamma calcium signaling pathway in ataxia	aboutDisease	doid	1289	neurodegenerative disease	manual	wikipathways
+wikipathways	WP4785	Somitogenesis in the context of spondylocostal dysostosis	aboutDisease	doid	0050568	spondylocostal dysostosis	manual	wikipathways
+wikipathways	WP4872	MAP3K1 role in promoting and blocking gonadal determination	aboutDisease	doid	14447	gonadal dysgenesis	manual	wikipathways
+wikipathways	WP4872	MAP3K1 role in promoting and blocking gonadal determination	aboutDisease	doid	14448	46,XY sex reversal	manual	wikipathways
+wikipathways	WP4872	MAP3K1 role in promoting and blocking gonadal determination	aboutDisease	doid	14450	46 XX gonadal dysgenesis	manual	wikipathways
+wikipathways	WP516	Hypertrophy Model	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP4155	Endometrial cancer	aboutDisease	doid	1380	endometrial cancer	manual	wikipathways
+wikipathways	WP4674	Head and Neck Squamous Cell Carcinoma	aboutDisease	doid	1542	head and neck carcinoma	manual	wikipathways
+wikipathways	WP1159	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP885	Ovarian Infertility Genes	aboutDisease	doid	5223	infertility	manual	wikipathways
+wikipathways	WP923	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP1041	Statin Pathway	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP1061	Fatty Acid Beta Oxidation	aboutDisease	doid	3146	lipid metabolism disorder	manual	wikipathways
+wikipathways	WP1080	Irinotecan Pathway	aboutDisease	doid	1227	neutropenia	manual	wikipathways
+wikipathways	WP1080	Irinotecan Pathway	aboutDisease	doid	13250	diarrhea	manual	wikipathways
+wikipathways	WP1080	Irinotecan Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3116	Ovarian Infertility Genes	aboutDisease	doid	5223	infertility	manual	wikipathways
+wikipathways	WP3126	Apoptosis-related network due to altered Notch3 in ovarian cancer	aboutDisease	doid	193	reproductive organ cancer	manual	wikipathways
+wikipathways	WP3130	SIDS Susceptibility Pathways	aboutDisease	doid	9007	sudden infant death syndrome	manual	wikipathways
+wikipathways	WP3139	Gastric cancer network 2	aboutDisease	doid	10534	stomach cancer	manual	wikipathways
+wikipathways	WP3139	Gastric cancer network 2	aboutDisease	doid	3717	gastric adenocarcinoma	manual	wikipathways
+wikipathways	WP3160	IL1 and megakaryotyces in obesity	aboutDisease	doid	654	overnutrition	manual	wikipathways
+wikipathways	WP3194	SREBP signalling	aboutDisease	doid	2487	None	manual	wikipathways
+wikipathways	WP3206	Retinoblastoma Gene in Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3226	Aryl Hydrocarbon Receptor	aboutDisease	doid	5395	functioning pituitary adenoma	manual	wikipathways
+wikipathways	WP3239	TP53 Network	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3244	Integrated Cancer pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3264	Tamoxifen metabolism	aboutDisease	doid	0060075	estrogen-receptor positive breast cancer	manual	wikipathways
+wikipathways	WP3265	Corticotropin-releasing hormone	aboutDisease	doid	1470	major depressive disorder	manual	wikipathways
+wikipathways	WP3265	Corticotropin-releasing hormone	aboutDisease	doid	2030	anxiety disorder	manual	wikipathways
+wikipathways	WP3265	Corticotropin-releasing hormone	aboutDisease	doid	8689	anorexia nervosa	manual	wikipathways
+wikipathways	WP3265	Corticotropin-releasing hormone	aboutDisease	doid	14330	Parkinson's disease	manual	wikipathways
+wikipathways	WP3266	Signaling Pathways in Glioblastoma	aboutDisease	doid	1319	brain cancer	manual	wikipathways
+wikipathways	WP3266	Signaling Pathways in Glioblastoma	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3266	Signaling Pathways in Glioblastoma	aboutDisease	doid	3068	glioblastoma	manual	wikipathways
+wikipathways	WP3268	RalA downstream regulated genes	aboutDisease	doid	8552	chronic myeloid leukemia	manual	wikipathways
+wikipathways	WP3275	Fluoropyrimidine Activity	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3280	Heart Development	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP3887	Angiotensin II signaling (acute) in thick ascending limbs	aboutDisease	doid	1073	renal hypertension	manual	wikipathways
+wikipathways	WP3901	Lipid Droplet Metabolism	aboutDisease	doid	0050729	neutral lipid storage disease	manual	wikipathways
+wikipathways	WP3901	Lipid Droplet Metabolism	aboutDisease	doid	3146	lipid metabolism disorder	manual	wikipathways
+wikipathways	WP442	Hypertrophy Model	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP982	Hypertrophy Model	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP1299	ErbB signaling pathway	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP1299	ErbB signaling pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP1299	ErbB signaling pathway	aboutDisease	doid	2377	multiple sclerosis	manual	wikipathways
+wikipathways	WP1968	Genetic alterations of lung cancer	aboutDisease	doid	1324	lung cancer	manual	wikipathways
+wikipathways	WP2433	Spinal Cord Injury	aboutDisease	doid	2055	post-traumatic stress disorder	manual	wikipathways
+wikipathways	WP2433	Spinal Cord Injury	aboutDisease	doid	319	spinal cord disease	manual	wikipathways
+wikipathways	WP263	Ovarian Infertility Genes	aboutDisease	doid	5223	infertility	manual	wikipathways
+wikipathways	WP326	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP3649	Wnt myofibroblastic activation of Hepatic Stellate Cells	aboutDisease	doid	5082	liver cirrhosis	manual	wikipathways
+wikipathways	WP3650	Acetate mediated promotion of metabolic syndrome	aboutDisease	doid	0060158	acquired metabolic disease	manual	wikipathways
+wikipathways	WP376	Renin - Angiotensin System	aboutDisease	doid	1073	renal hypertension	manual	wikipathways
+wikipathways	WP376	Renin - Angiotensin System	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP3882	Thick Ascending Limb Transporters	aboutDisease	doid	445	Bartter disease	manual	wikipathways
+wikipathways	WP3894	Fructose Metabolism in Proximal Tubules	aboutDisease	doid	1073	renal hypertension	manual	wikipathways
+wikipathways	WP3894	Fructose Metabolism in Proximal Tubules	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP3894	Fructose Metabolism in Proximal Tubules	aboutDisease	doid	5204	fructose-1,6-bisphosphatase deficiency	manual	wikipathways
+wikipathways	WP3894	Fructose Metabolism in Proximal Tubules	aboutDisease	doid	9869	hereditary fructose intolerance syndrome	manual	wikipathways
+wikipathways	WP3916	Hexoses metabolism in proximal tubules	aboutDisease	doid	0014667	disease of metabolism	manual	wikipathways
+wikipathways	WP3916	Hexoses metabolism in proximal tubules	aboutDisease	doid	0060158	acquired metabolic disease	manual	wikipathways
+wikipathways	WP3916	Hexoses metabolism in proximal tubules	aboutDisease	doid	655	inherited metabolic disorder	manual	wikipathways
+wikipathways	WP1261	ErbB signaling pathway	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP1261	ErbB signaling pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP1261	ErbB signaling pathway	aboutDisease	doid	2377	multiple sclerosis	manual	wikipathways
+wikipathways	WP2067	Heart Development	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP2075	Alzheimers Disease	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP2141	Serotonin and anxiety	aboutDisease	doid	2030	anxiety disorder	manual	wikipathways
+wikipathways	WP273	Ovarian Infertility Genes	aboutDisease	doid	5223	infertility	manual	wikipathways
+wikipathways	WP3632	Lung fibrosis	aboutDisease	doid	3770	pulmonary fibrosis	manual	wikipathways
+wikipathways	WP3638	Parkinsons Disease Pathway	aboutDisease	doid	12217	Lewy body dementia	manual	wikipathways
+wikipathways	WP3638	Parkinsons Disease Pathway	aboutDisease	doid	14330	Parkinson's disease	manual	wikipathways
+wikipathways	WP3979	mir-193a and MVP in colon cancer metastasis	aboutDisease	doid	219	colon cancer	manual	wikipathways
+wikipathways	WP4183	Distal Convoluted Tubule 1 (DCT1) Cell	aboutDisease	doid	445	Bartter disease	manual	wikipathways
+wikipathways	WP4398	PDGFRα and STMN1 cooperate to exacerbate the cytotoxic effects of vinblastine	aboutDisease	doid	3068	glioblastoma	manual	wikipathways
+wikipathways	WP4474	Circulating monocytes and cardiac macrophages in diastolic dysfunction	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP4474	Circulating monocytes and cardiac macrophages in diastolic dysfunction	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP4506	Tyrosine Metabolism	aboutDisease	doid	655	inherited metabolic disorder	manual	wikipathways
+wikipathways	WP4506	Tyrosine Metabolism	aboutDisease	doid	9270	alkaptonuria	manual	wikipathways
+wikipathways	WP4559	Interactions between immune cells and microRNAs in tumor microenvironment	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4820	GDNF/RET signalling axis	aboutDisease	doid	0080205	CAKUT	manual	wikipathways
+wikipathways	WP4868	Type I Interferon Induction and Signaling During SARS-CoV-2 Infection	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4868	Type I Interferon Induction and Signaling During SARS-CoV-2 Infection	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP2355	Corticotropin-releasing hormone signaling pathway	aboutDisease	doid	1470	major depressive disorder	manual	wikipathways
+wikipathways	WP2355	Corticotropin-releasing hormone signaling pathway	aboutDisease	doid	8689	anorexia nervosa	manual	wikipathways
+wikipathways	WP2355	Corticotropin-releasing hormone signaling pathway	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP2355	Corticotropin-releasing hormone signaling pathway	aboutDisease	doid	14330	Parkinson's disease	manual	wikipathways
+wikipathways	WP2636	Common Pathways Underlying Drug Addiction	aboutDisease	doid	0050741	alcohol dependence	manual	wikipathways
+wikipathways	WP3300	Dual hijack model of Vif in HIV infection	aboutDisease	doid	526	human immunodeficiency virus infectious disease	manual	wikipathways
+wikipathways	WP3611	Photodynamic therapy-induced AP-1 survival signaling.	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3680	Association Between Physico-Chemical Features and Toxicity Associated Pathways	aboutDisease	doid	1793	pancreatic cancer	manual	wikipathways
+wikipathways	WP3945	TYROBP Causal Network	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP3972	PDGFR-beta pathway	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP3981	miRNA regulation of prostate cancer signaling pathways	aboutDisease	doid	10283	prostate cancer	manual	wikipathways
+wikipathways	WP3995	Prion disease pathway	aboutDisease	doid	649	prion disease	manual	wikipathways
+wikipathways	WP4225	Pyrimidine metabolism and related diseases	aboutDisease	doid	14218	dihydropyrimidine dehydrogenase deficiency	manual	wikipathways
+wikipathways	WP4225	Pyrimidine metabolism and related diseases	aboutDisease	doid	0050832	pyrimidine metabolic disorder	manual	wikipathways
+wikipathways	WP4225	Pyrimidine metabolism and related diseases	aboutDisease	doid	0050833	orotic aciduria	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0050715	methylmalonic aciduria and homocystinuria type cblC	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0050716	methylmalonic aciduria and homocystinuria type cblD	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0050717	methylmalonic aciduria and homocystinuria type cblF	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0050731	vitamin B12 deficiency	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0060740	methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0060742	methylmalonic acidemia cblA type	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	0060743	methylmalonic acidemia cblB type	manual	wikipathways
+wikipathways	WP4271	Vitamin B12 Disorders	aboutDisease	doid	14749	methylmalonic acidemia	manual	wikipathways
+wikipathways	WP4519	Cerebral Organic Acidurias, including diseases	aboutDisease	doid	3613	Canavan disease	manual	wikipathways
+wikipathways	WP4519	Cerebral Organic Acidurias, including diseases	aboutDisease	doid	0050573	2-hydroxyglutaric aciduria	manual	wikipathways
+wikipathways	WP4519	Cerebral Organic Acidurias, including diseases	aboutDisease	doid	0050575	D-2-hydroxyglutaric aciduria	manual	wikipathways
+wikipathways	WP4519	Cerebral Organic Acidurias, including diseases	aboutDisease	doid	0060159	organic acidemia	manual	wikipathways
+wikipathways	WP4666	Hepatitis B infection	aboutDisease	doid	2043	hepatitis B	manual	wikipathways
+wikipathways	WP4873	Peroxiredoxin 2 induced ovarian failure	aboutDisease	doid	1414	ovarian dysfunction	manual	wikipathways
+wikipathways	WP2526	PDGF Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2700	None	aboutDisease	doid	104	bacterial infectious disease	manual	wikipathways
+wikipathways	WP3303	RAC1/PAK1/p38/MMP2 Pathway	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP3664	Regulation of Wnt/B-catenin Signaling by Small Molecule Compounds	aboutDisease	doid	0050922	gastrointestinal carcinoma	manual	wikipathways
+wikipathways	WP3967	miR-509-3p alteration of YAP1/ECM axis	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3967	miR-509-3p alteration of YAP1/ECM axis	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP4008	NO/cGMP/PKG mediated Neuroprotection	aboutDisease	doid	1307	dementia	manual	wikipathways
+wikipathways	WP4217	Ebola Virus Pathway on Host	aboutDisease	doid	4325	Ebola hemorrhagic fever	manual	wikipathways
+wikipathways	WP4217	Ebola Virus Pathway on Host	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4259	Disorders of Folate Metabolism and Transport	aboutDisease	doid	0050718	vitamin metabolic disorder	manual	wikipathways
+wikipathways	WP4259	Disorders of Folate Metabolism and Transport	aboutDisease	doid	0050719	cerebral folate receptor alpha deficiency	manual	wikipathways
+wikipathways	WP4259	Disorders of Folate Metabolism and Transport	aboutDisease	doid	0050731	vitamin B12 deficiency	manual	wikipathways
+wikipathways	WP4582	Cancer immunotherapy by CTLA4 blockade	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4756	Renin Angiotensin Aldosterone System (RAAS)	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP4814	Somatic Sex determination	aboutDisease	doid	1923	disorder of sexual development	manual	wikipathways
+wikipathways	WP4871	Kisspeptin/Kisspeptin Receptor System in the Ovary	aboutDisease	doid	1100	ovarian disease	manual	wikipathways
+wikipathways	WP4871	Kisspeptin/Kisspeptin Receptor System in the Ovary	aboutDisease	doid	229	female reproductive system disease	manual	wikipathways
+wikipathways	WP4891	COVID-19 Adverse Outcome Pathway	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4891	COVID-19 Adverse Outcome Pathway	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP554	ACE Inhibitor Pathway	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP2253	Pilocytic astrocytoma	aboutDisease	doid	3069	astrocytoma	manual	wikipathways
+wikipathways	WP2253	Pilocytic astrocytoma	aboutDisease	doid	4851	pilocytic astrocytoma	manual	wikipathways
+wikipathways	WP4861	Endoplasmic reticulum stress response in Coronavirus infection	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4861	Endoplasmic reticulum stress response in Coronavirus infection	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP2868	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer	aboutDisease	doid	15	reproductive system disease	manual	wikipathways
+wikipathways	WP2868	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2868	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP4172	PI3K-Akt Signaling Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4856	Intracellular trafficking proteins involved in CMT neuropathy	aboutDisease	doid	10595	Charcot-Marie-Tooth disease	manual	wikipathways
+wikipathways	WP4856	Intracellular trafficking proteins involved in CMT neuropathy	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP4856	Intracellular trafficking proteins involved in CMT neuropathy	aboutDisease	doid	863	nervous system disease	manual	wikipathways
+wikipathways	WP4290	Metabolic reprogramming in colon cancer	aboutDisease	doid	9256	colorectal cancer	manual	wikipathways
+wikipathways	WP5017	None	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP5017	None	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP2447	Amyotrophic lateral sclerosis (ALS)	aboutDisease	doid	332	amyotrophic lateral sclerosis	manual	wikipathways
+wikipathways	WP4657	22q11.2 copy number variation syndrome	aboutDisease	doid	12583	velocardiofacial syndrome	manual	wikipathways
+wikipathways	WP4969	RAS and Bradykinin pathways in COVID-19	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4969	RAS and Bradykinin pathways in COVID-19	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4970	Galanin receptor pathway	aboutDisease	doid	863	nervous system disease	manual	wikipathways
+wikipathways	WP3674	Tgif disruption of Shh signaling	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP4864	Host-pathogen interaction of human corona viruses - apoptosis	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4864	Host-pathogen interaction of human corona viruses - apoptosis	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4198	None	aboutDisease	doid	399	tuberculosis	manual	wikipathways
+wikipathways	WP2261	Signaling Pathways in Glioblastoma	aboutDisease	doid	1319	brain cancer	manual	wikipathways
+wikipathways	WP2261	Signaling Pathways in Glioblastoma	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2261	Signaling Pathways in Glioblastoma	aboutDisease	doid	3068	glioblastoma	manual	wikipathways
+wikipathways	WP3414	Initiation of transcription and translation elongation at the HIV-1 LTR	aboutDisease	doid	526	human immunodeficiency virus infectious disease	manual	wikipathways
+wikipathways	WP3672	LncRNA-mediated mechanisms of therapeutic resistance	aboutDisease	doid	684	hepatocellular carcinoma	manual	wikipathways
+wikipathways	WP3863	T-Cell antigen Receptor (TCR) pathway during Staphylococcus aureus infection	aboutDisease	doid	14115	toxic shock syndrome	manual	wikipathways
+wikipathways	WP4236	Disorders of the Krebs cycle	aboutDisease	doid	890	mitochondrial encephalomyopathy	manual	wikipathways
+wikipathways	WP4236	Disorders of the Krebs cycle	aboutDisease	doid	14749	methylmalonic acidemia	manual	wikipathways
+wikipathways	WP4545	Oxysterols derived from cholesterol	aboutDisease	doid	4810	cerebrotendinous xanthomatosis	manual	wikipathways
+wikipathways	WP4545	Oxysterols derived from cholesterol	aboutDisease	doid	0070111	Niemann-Pick disease type A	manual	wikipathways
+wikipathways	WP4545	Oxysterols derived from cholesterol	aboutDisease	doid	0070112	Niemann-Pick disease type B	manual	wikipathways
+wikipathways	WP4545	Oxysterols derived from cholesterol	aboutDisease	doid	0070113	Niemann-Pick disease type C1	manual	wikipathways
+wikipathways	WP4545	Oxysterols derived from cholesterol	aboutDisease	doid	14504	Niemann-Pick disease	manual	wikipathways
+wikipathways	WP4583	Biomarkers for urea cycle disorders	aboutDisease	doid	14755	argininosuccinic aciduria	manual	wikipathways
+wikipathways	WP4583	Biomarkers for urea cycle disorders	aboutDisease	doid	9267	urea cycle disorder	manual	wikipathways
+wikipathways	WP4583	Biomarkers for urea cycle disorders	aboutDisease	doid	9271	ornithine carbamoyltransferase deficiency	manual	wikipathways
+wikipathways	WP4583	Biomarkers for urea cycle disorders	aboutDisease	doid	9273	citrullinemia	manual	wikipathways
+wikipathways	WP4583	Biomarkers for urea cycle disorders	aboutDisease	doid	9278	hyperargininemia	manual	wikipathways
+wikipathways	WP4583	Biomarkers for urea cycle disorders	aboutDisease	doid	9280	carbamoyl phosphate synthetase I deficiency disease	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110939	autosomal recessive osteopetrosis 5	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110940	autosomal recessive osteopetrosis 8	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110941	autosomal recessive osteopetrosis 3	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110942	autosomal recessive osteopetrosis 1	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110943	autosomal recessive osteopetrosis 2	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110944	autosomal recessive osteopetrosis 4	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110945	autosomal recessive osteopetrosis 6	manual	wikipathways
+wikipathways	WP4788	Autosomal recessive Osteopetrosis pathways	aboutDisease	doid	0110946	autosomal recessive osteopetrosis 7	manual	wikipathways
+wikipathways	WP2197	Endothelin Pathways	aboutDisease	doid	10763	hypertension	manual	wikipathways
+wikipathways	WP2197	Endothelin Pathways	aboutDisease	doid	10913	benign essential hypertension	manual	wikipathways
+wikipathways	WP2865	IL1 and megakaryocytes in obesity	aboutDisease	doid	9970	obesity	manual	wikipathways
+wikipathways	WP2865	IL1 and megakaryocytes in obesity	aboutDisease	doid	654	overnutrition	manual	wikipathways
+wikipathways	WP3668	Hypothesized Pathways in Pathogenesis of Cardiovascular Disease	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP3872	Regulation of Apoptosis by Parathyroid Hormone-related Protein	aboutDisease	doid	10283	prostate cancer	manual	wikipathways
+wikipathways	WP4197	The human immune response to tuberculosis	aboutDisease	doid	399	tuberculosis	manual	wikipathways
+wikipathways	WP4216	Chromosomal and microsatellite instability in colorectal cancer	aboutDisease	doid	9256	colorectal cancer	manual	wikipathways
+wikipathways	WP4522	Metabolic pathway of LDL, HDL and TG, including diseases	aboutDisease	doid	13809	familial combined hyperlipidemia	manual	wikipathways
+wikipathways	WP4522	Metabolic pathway of LDL, HDL and TG, including diseases	aboutDisease	doid	1388	Tangier disease	manual	wikipathways
+wikipathways	WP4522	Metabolic pathway of LDL, HDL and TG, including diseases	aboutDisease	doid	1390	hypobetalipoproteinemia	manual	wikipathways
+wikipathways	WP4522	Metabolic pathway of LDL, HDL and TG, including diseases	aboutDisease	doid	0090105	autosomal recessive hypercholesterolemia	manual	wikipathways
+wikipathways	WP4585	Cancer immunotherapy by PD-1 blockade	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4786	Type I collagen synthesis in the context of Osteogenesis imperfecta	aboutDisease	doid	12347	osteogenesis imperfecta	manual	wikipathways
+wikipathways	WP4875	Disruption of postsynaptic signalling by CNV	aboutDisease	doid	0060041	autism spectrum disorder	manual	wikipathways
+wikipathways	WP4875	Disruption of postsynaptic signalling by CNV	aboutDisease	doid	5419	schizophrenia	manual	wikipathways
+wikipathways	WP4940	15q11.2 copy number variation syndrome	aboutDisease	doid	0060393	chromosome 15q11.2 deletion syndrome	manual	wikipathways
+wikipathways	WP4940	15q11.2 copy number variation syndrome	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP229	Irinotecan Pathway	aboutDisease	doid	1227	neutropenia	manual	wikipathways
+wikipathways	WP229	Irinotecan Pathway	aboutDisease	doid	13250	diarrhea	manual	wikipathways
+wikipathways	WP229	Irinotecan Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3624	Lung fibrosis	aboutDisease	doid	3770	pulmonary fibrosis	manual	wikipathways
+wikipathways	WP3651	Pathways Affected in Adenoid Cystic Carcinoma	aboutDisease	doid	4877	breast adenoid cystic carcinoma	manual	wikipathways
+wikipathways	WP3849	MAPK  and NFkB Signalling Pathways Inhibited by Yersinia YopJ	aboutDisease	doid	10773	bubonic plague	manual	wikipathways
+wikipathways	WP3969	H19 action Rb-E2F1 signaling and CDK-Beta-catenin activity	aboutDisease	doid	9256	colorectal cancer	manual	wikipathways
+wikipathways	WP4018	Pathways in clear cell renal cell carcinoma	aboutDisease	doid	4467	clear cell renal cell carcinoma	manual	wikipathways
+wikipathways	WP4292	Methionine metabolism leading to Sulphur Amino Acids and related disorders	aboutDisease	doid	0111037	glycine N-methyltransferase deficiency	manual	wikipathways
+wikipathways	WP4337	ncRNAs involved in STAT3 signaling in hepatocellular carcinoma	aboutDisease	doid	684	hepatocellular carcinoma	manual	wikipathways
+wikipathways	WP4400	FABP4 in ovarian cancer	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP4549	Fragile X Syndrome	aboutDisease	doid	14261	fragile X syndrome	manual	wikipathways
+wikipathways	WP4549	Fragile X Syndrome	aboutDisease	doid	0060041	autism spectrum disorder	manual	wikipathways
+wikipathways	WP4879	The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies	aboutDisease	doid	11726	Emery-Dreifuss muscular dystrophy	manual	wikipathways
+wikipathways	WP4879	The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies	aboutDisease	doid	3911	progeria	manual	wikipathways
+wikipathways	WP4879	The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies	aboutDisease	doid	0050440	familial partial lipodystrophy	manual	wikipathways
+wikipathways	WP4879	The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies	aboutDisease	doid	0050700	cardiomyopathy	manual	wikipathways
+wikipathways	WP4880	Host-pathogen interaction of human corona viruses - Interferon induction	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4880	Host-pathogen interaction of human corona viruses - Interferon induction	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP1591	Heart Development	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP1604	Codeine and Morphine Metabolism	aboutDisease	doid	2739	Gilbert syndrome	manual	wikipathways
+wikipathways	WP3640	Imatinib and Chronic Myeloid Leukemia	aboutDisease	doid	8552	chronic myeloid leukemia	manual	wikipathways
+wikipathways	WP3853	ERK Pathway in Huntington's Disease	aboutDisease	doid	12858	Huntington's disease	manual	wikipathways
+wikipathways	WP3858	Toll-like Receptor Signaling related to MyD88	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP3879	4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression	aboutDisease	doid	1612	breast cancer	manual	wikipathways
+wikipathways	WP3879	4-hydroxytamoxifen, Dexamethasone, and Retinoic Acids Regulation of p27 Expression	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4228	Vitamin B6-dependent and responsive disorders	aboutDisease	doid	0110914	infantile hypophosphatasia	manual	wikipathways
+wikipathways	WP4228	Vitamin B6-dependent and responsive disorders	aboutDisease	doid	0110915	childhood hypophosphatasia	manual	wikipathways
+wikipathways	WP4228	Vitamin B6-dependent and responsive disorders	aboutDisease	doid	14213	hypophosphatasia	manual	wikipathways
+wikipathways	WP4747	Netrin-UNC5B signaling Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4860	Hijack of Ubiquitination by SARS-CoV-2	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4860	Hijack of Ubiquitination by SARS-CoV-2	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4917	Proximal tubule transport	aboutDisease	doid	1062	Fanconi syndrome	manual	wikipathways
+wikipathways	WP4942	15q13.3 copy number variation syndrome	aboutDisease	doid	0060394	chromosome 15q13.3 microdeletion syndrome	manual	wikipathways
+wikipathways	WP4942	15q13.3 copy number variation syndrome	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP1544	MicroRNAs in cardiomyocyte hypertrophy	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP1589	Folate-Alcohol and Cancer Pathway Hypotheses	aboutDisease	doid	8618	oral cavity cancer	manual	wikipathways
+wikipathways	WP2059	Alzheimers Disease	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP2290	RalA downstream regulated genes	aboutDisease	doid	8552	chronic myeloid leukemia	manual	wikipathways
+wikipathways	WP2572	Primary Focal Segmental Glomerulosclerosis FSGS	aboutDisease	doid	1312	focal segmental glomerulosclerosis	manual	wikipathways
+wikipathways	WP34	Ovarian Infertility Genes	aboutDisease	doid	5223	infertility	manual	wikipathways
+wikipathways	WP4258	LncRNA involvement in canonical Wnt signaling and colorectal cancer	aboutDisease	doid	9256	colorectal cancer	manual	wikipathways
+wikipathways	WP4263	Pancreatic adenocarcinoma pathway	aboutDisease	doid	4074	pancreatic adenocarcinoma	manual	wikipathways
+wikipathways	WP4534	Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4571	Urea cycle and related diseases	aboutDisease	doid	14755	argininosuccinic aciduria	manual	wikipathways
+wikipathways	WP4571	Urea cycle and related diseases	aboutDisease	doid	9267	urea cycle disorder	manual	wikipathways
+wikipathways	WP4571	Urea cycle and related diseases	aboutDisease	doid	9271	ornithine carbamoyltransferase deficiency	manual	wikipathways
+wikipathways	WP4571	Urea cycle and related diseases	aboutDisease	doid	9273	citrullinemia	manual	wikipathways
+wikipathways	WP4571	Urea cycle and related diseases	aboutDisease	doid	9278	hyperargininemia	manual	wikipathways
+wikipathways	WP4571	Urea cycle and related diseases	aboutDisease	doid	9280	carbamoyl phosphate synthetase I deficiency disease	manual	wikipathways
+wikipathways	WP4577	Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway	aboutDisease	doid	0110734	neurodegeneration with brain iron accumulation	manual	wikipathways
+wikipathways	WP4751	HIPK2 in kidney fibrosis	aboutDisease	doid	0050855	renal fibrosis	manual	wikipathways
+wikipathways	WP4927	COVID-19, thrombosis and anticoagulation	aboutDisease	doid	1247	blood coagulation disease	manual	wikipathways
+wikipathways	WP4927	COVID-19, thrombosis and anticoagulation	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4927	COVID-19, thrombosis and anticoagulation	aboutDisease	doid	0060903	thrombosis	manual	wikipathways
+wikipathways	WP4928	MAPK pathway in congenital thyroid cancer	aboutDisease	doid	1781	thyroid gland cancer	manual	wikipathways
+wikipathways	WP4224	Purine metabolism and related disorders	aboutDisease	doid	1919	Lesch-Nyhan syndrome	manual	wikipathways
+wikipathways	WP4224	Purine metabolism and related disorders	aboutDisease	doid	5810	adenosine deaminase deficiency	manual	wikipathways
+wikipathways	WP4224	Purine metabolism and related disorders	aboutDisease	doid	0050762	adenylosuccinase lyase deficiency	manual	wikipathways
+wikipathways	WP4224	Purine metabolism and related disorders	aboutDisease	doid	0060350	adenine phosphoribosyltransferase deficiency	manual	wikipathways
+wikipathways	WP4224	Purine metabolism and related disorders	aboutDisease	doid	0080121	mitochondrial DNA depletion syndrome 3	manual	wikipathways
+wikipathways	WP4863	Host-pathogen interaction of human corona viruses - autophagy	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4863	Host-pathogen interaction of human corona viruses - autophagy	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4950	16p11.2 distal deletion syndrome	aboutDisease	doid	0060398	chromosome 16p11.2 deletion syndrome	manual	wikipathways
+wikipathways	WP4950	16p11.2 distal deletion syndrome	aboutDisease	doid	630	genetic disease	manual	wikipathways
+wikipathways	WP673	ErbB Signaling Pathway	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP673	ErbB Signaling Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP673	ErbB Signaling Pathway	aboutDisease	doid	2377	multiple sclerosis	manual	wikipathways
+wikipathways	WP4205	MET in type 1 papillary renal cell carcinoma	aboutDisease	doid	4465	papillary renal cell carcinoma	manual	wikipathways
+wikipathways	WP4205	MET in type 1 papillary renal cell carcinoma	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4767	FGFR3 signalling in chondrocyte proliferation and terminal differentiation	aboutDisease	doid	0060703	Muenke Syndrome	manual	wikipathways
+wikipathways	WP3569	None	aboutDisease	doid	13636	Fanconi anemia	manual	wikipathways
+wikipathways	WP5020	None	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP5020	None	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP3551	None	aboutDisease	doid	0050117	disease by infectious agent	manual	wikipathways
+wikipathways	WP4482	Vitamin D in inflammatory diseases	aboutDisease	doid	0050117	disease by infectious agent	manual	wikipathways
+wikipathways	WP4523	Classical pathway of steroidogenesis with Glucocorticoid and Mineralocorticoid Metabolism	aboutDisease	doid	4367	apparent mineralocorticoid excess syndrome	manual	wikipathways
+wikipathways	WP4523	Classical pathway of steroidogenesis with Glucocorticoid and Mineralocorticoid Metabolism	aboutDisease	doid	0050546	congenital adrenal insufficiency	manual	wikipathways
+wikipathways	WP4523	Classical pathway of steroidogenesis with Glucocorticoid and Mineralocorticoid Metabolism	aboutDisease	doid	0050811	congenital adrenal hyperplasia	manual	wikipathways
+wikipathways	WP4523	Classical pathway of steroidogenesis with Glucocorticoid and Mineralocorticoid Metabolism	aboutDisease	doid	0090121	None	manual	wikipathways
+wikipathways	WP4523	Classical pathway of steroidogenesis with Glucocorticoid and Mineralocorticoid Metabolism	aboutDisease	doid	0090139	cortisone reductase deficiency	manual	wikipathways
+wikipathways	WP4523	Classical pathway of steroidogenesis with Glucocorticoid and Mineralocorticoid Metabolism	aboutDisease	doid	3765	pseudohermaphroditism	manual	wikipathways
+wikipathways	WP5003	None	aboutDisease	doid	399	tuberculosis	manual	wikipathways
+wikipathways	WP4912	SARS coronavirus and innate immunity	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4912	SARS coronavirus and innate immunity	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP2446	Retinoblastoma Gene in Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP143	Fatty Acid Beta Oxidation	aboutDisease	doid	3146	lipid metabolism disorder	manual	wikipathways
+wikipathways	WP4539	Synaptic signaling pathways associated with autism spectrum disorder	aboutDisease	doid	0060041	autism spectrum disorder	manual	wikipathways
+wikipathways	WP4799	Downregulation of ACE2 expression by SARS-CoV infection and SARS-CoV Spike protein	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP1327	Hypertrophy Model	aboutDisease	doid	114	heart disease	manual	wikipathways
+wikipathways	WP1365	Calcium Regulation in the Cardiac Cell	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP1366	ErbB Signaling Pathway	aboutDisease	doid	10652	Alzheimer's disease	manual	wikipathways
+wikipathways	WP1366	ErbB Signaling Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP1366	ErbB Signaling Pathway	aboutDisease	doid	2377	multiple sclerosis	manual	wikipathways
+wikipathways	WP1369	TNF-alpha NF-kB Signaling Pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2918	None	aboutDisease	doid	14067	Plasmodium falciparum malaria	manual	wikipathways
+wikipathways	WP3641	None	aboutDisease	doid	4194	glucose metabolism disease	manual	wikipathways
+wikipathways	WP206	Fatty Acid Omega Oxidation	aboutDisease	doid	3146	lipid metabolism disorder	manual	wikipathways
+wikipathways	WP2361	Gastric Cancer Network 1	aboutDisease	doid	10534	stomach cancer	manual	wikipathways
+wikipathways	WP2361	Gastric Cancer Network 1	aboutDisease	doid	3717	gastric adenocarcinoma	manual	wikipathways
+wikipathways	WP2371	Parkinsons Disease Pathway	aboutDisease	doid	12217	Lewy body dementia	manual	wikipathways
+wikipathways	WP2371	Parkinsons Disease Pathway	aboutDisease	doid	1289	neurodegenerative disease	manual	wikipathways
+wikipathways	WP2371	Parkinsons Disease Pathway	aboutDisease	doid	14330	Parkinson's disease	manual	wikipathways
+wikipathways	WP3635	Insulin signalling in human adipocytes (diabetic condition)	aboutDisease	doid	9351	diabetes mellitus	manual	wikipathways
+wikipathways	WP3646	Hepatitis C and Hepatocellular Carcinoma	aboutDisease	doid	684	hepatocellular carcinoma	manual	wikipathways
+wikipathways	WP3670	Simplified Interaction Map Between LOXL4 and Oxidative Stress Pathway	aboutDisease	doid	11054	urinary bladder cancer	manual	wikipathways
+wikipathways	WP3944	Serotonin and anxiety-related events	aboutDisease	doid	2030	anxiety disorder	manual	wikipathways
+wikipathways	WP4194	Hormonal control of Pubertal Growth Spurt	aboutDisease	doid	6255	growth hormone secreting pituitary adenoma	manual	wikipathways
+wikipathways	WP4206	Hereditary leiomyomatosis and renal cell carcinoma pathway	aboutDisease	doid	4450	renal cell carcinoma	manual	wikipathways
+wikipathways	WP4206	Hereditary leiomyomatosis and renal cell carcinoma pathway	aboutDisease	doid	5138	leiomyomatosis	manual	wikipathways
+wikipathways	WP4301	Inhibition of exosome biogenesis and secretion by Manumycin A in CRPC cells	aboutDisease	doid	10283	prostate cancer	manual	wikipathways
+wikipathways	WP4312	Rett syndrome causing genes	aboutDisease	doid	1206	Rett syndrome	manual	wikipathways
+wikipathways	WP4947	NO metabolism in cystic fibrosis	aboutDisease	doid	1485	cystic fibrosis	manual	wikipathways
+wikipathways	WP2864	Apoptosis-related network due to altered Notch3 in ovarian cancer	aboutDisease	doid	193	reproductive organ cancer	manual	wikipathways
+wikipathways	WP3679	Cell-type Dependent Selectivity of CCK2R Signaling	aboutDisease	doid	1116	pertussis	manual	wikipathways
+wikipathways	WP3947	Serotonin and anxiety	aboutDisease	doid	2030	anxiety disorder	manual	wikipathways
+wikipathways	WP4485	None	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4542	Overview of leukocyte-intrinsic Hippo pathway functions	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4595	Urea cycle and associated pathways	aboutDisease	doid	14755	argininosuccinic aciduria	manual	wikipathways
+wikipathways	WP4595	Urea cycle and associated pathways	aboutDisease	doid	9267	urea cycle disorder	manual	wikipathways
+wikipathways	WP4595	Urea cycle and associated pathways	aboutDisease	doid	9271	ornithine carbamoyltransferase deficiency	manual	wikipathways
+wikipathways	WP4595	Urea cycle and associated pathways	aboutDisease	doid	9273	citrullinemia	manual	wikipathways
+wikipathways	WP4595	Urea cycle and associated pathways	aboutDisease	doid	9278	hyperargininemia	manual	wikipathways
+wikipathways	WP4595	Urea cycle and associated pathways	aboutDisease	doid	9280	carbamoyl phosphate synthetase I deficiency disease	manual	wikipathways
+wikipathways	WP4658	Small cell lung cancer	aboutDisease	doid	1324	lung cancer	manual	wikipathways
+wikipathways	WP4658	Small cell lung cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4944	None	aboutDisease	doid	1062	Fanconi syndrome	manual	wikipathways
+wikipathways	WP1584	Type II diabetes mellitus	aboutDisease	doid	4195	hyperglycemia	manual	wikipathways
+wikipathways	WP1584	Type II diabetes mellitus	aboutDisease	doid	9351	diabetes mellitus	manual	wikipathways
+wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production	aboutDisease	doid	50	thyroid gland disease	manual	wikipathways
+wikipathways	WP3874	Canonical and Non-Canonical TGF-B signaling	aboutDisease	doid	1405	primary angle-closure glaucoma	manual	wikipathways
+wikipathways	WP4016	DNA IR-damage and cellular response via ATR	aboutDisease	doid	4159	skin cancer	manual	wikipathways
+wikipathways	WP4016	DNA IR-damage and cellular response via ATR	aboutDisease	doid	0050569	Seckel syndrome	manual	wikipathways
+wikipathways	WP4016	DNA IR-damage and cellular response via ATR	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4262	Breast cancer pathway	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP4298	Viral Acute Myocarditis	aboutDisease	doid	820	myocarditis	manual	wikipathways
+wikipathways	WP4298	Viral Acute Myocarditis	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4320	The effect of progerin on the involved genes in Hutchinson-Gilford Progeria Syndrome	aboutDisease	doid	3911	progeria	manual	wikipathways
+wikipathways	WP4399	MicroRNA network associated with chronic lymphocytic leukemia	aboutDisease	doid	1040	chronic lymphocytic leukemia	manual	wikipathways
+wikipathways	WP4535	Envelope proteins and their potential roles in EDMD physiopathology	aboutDisease	doid	11726	Emery-Dreifuss muscular dystrophy	manual	wikipathways
+wikipathways	WP4560	MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP4698	Vitamin D-sensitive calcium signaling in depression	aboutDisease	doid	1596	mental depression	manual	wikipathways
+wikipathways	WP4842	Mammalian disorder of sexual development	aboutDisease	doid	1414	ovarian dysfunction	manual	wikipathways
+wikipathways	WP4842	Mammalian disorder of sexual development	aboutDisease	doid	1876	sexual dysfunction	manual	wikipathways
+wikipathways	WP4842	Mammalian disorder of sexual development	aboutDisease	doid	1923	disorder of sexual development	manual	wikipathways
+wikipathways	WP4853	None	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4853	None	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4869	None	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4869	None	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP1533	Vitamin B12 Metabolism	aboutDisease	doid	13381	pernicious anemia	manual	wikipathways
+wikipathways	WP1982	Sterol Regulatory Element-Binding Proteins (SREBP) signalling	aboutDisease	doid	2487	None	manual	wikipathways
+wikipathways	WP2118	Arrhythmogenic Right Ventricular Cardiomyopathy	aboutDisease	doid	0050431	arrhythmogenic right ventricular cardiomyopathy	manual	wikipathways
+wikipathways	WP2249	Metastatic brain tumor	aboutDisease	doid	14566	disease of cellular proliferation	manual	wikipathways
+wikipathways	WP2363	Gastric Cancer Network 2	aboutDisease	doid	10534	stomach cancer	manual	wikipathways
+wikipathways	WP2363	Gastric Cancer Network 2	aboutDisease	doid	3717	gastric adenocarcinoma	manual	wikipathways
+wikipathways	WP2363	Gastric Cancer Network 2	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2828	Bladder Cancer	aboutDisease	doid	11054	urinary bladder cancer	manual	wikipathways
+wikipathways	WP2828	Bladder Cancer	aboutDisease	doid	4465	papillary renal cell carcinoma	manual	wikipathways
+wikipathways	WP2828	Bladder Cancer	aboutDisease	doid	162	cancer	manual	wikipathways
+wikipathways	WP2828	Bladder Cancer	aboutDisease	doid	365	bladder disease	manual	wikipathways
+wikipathways	WP3301	MFAP5-mediated ovarian cancer cell motility and invasiveness	aboutDisease	doid	14566	disease of cellular proliferation	manual	wikipathways
+wikipathways	WP3301	MFAP5-mediated ovarian cancer cell motility and invasiveness	aboutDisease	doid	2394	ovarian cancer	manual	wikipathways
+wikipathways	WP3407	FTO Obesity Variant Mechanism	aboutDisease	doid	9970	obesity	manual	wikipathways
+wikipathways	WP3658	Wnt/beta-catenin Signaling Pathway in Leukemia	aboutDisease	doid	1240	leukemia	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	10581	metachromatic leukodystrophy	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	10587	Krabbe disease	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	14499	Fabry disease	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	2368	gangliosidosis	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	3320	Tay-Sachs disease	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	3321	GM2 gangliosidosis	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	3322	GM1 gangliosidosis	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	3323	Sandhoff disease	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	4795	GM2 gangliosidosis, AB variant	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	0050464	Farber lipogranulomatosis	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	14504	Niemann-Pick disease	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	1926	Gaucher's disease	manual	wikipathways
+wikipathways	WP4153	Degradation pathway of sphingolipids, including diseases	aboutDisease	doid	4	disease	manual	wikipathways
+wikipathways	WP4156	Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine	aboutDisease	doid	0090106	Bh4-deficient hyperphenylalaninemia A	manual	wikipathways
+wikipathways	WP4156	Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine	aboutDisease	doid	0090123	aromatic L-amino acid decarboxylase deficiency	manual	wikipathways
+wikipathways	WP430	Statin Pathway	aboutDisease	doid	1287	cardiovascular system disease	manual	wikipathways
+wikipathways	WP4518	Gamma-Glutamyl Cycle for the biosynthesis and degradation of glutathione, including diseases	aboutDisease	doid	0050737	autosomal recessive disease	manual	wikipathways
+wikipathways	WP4518	Gamma-Glutamyl Cycle for the biosynthesis and degradation of glutathione, including diseases	aboutDisease	doid	0050758	metabolic acidosis	manual	wikipathways
+wikipathways	WP4518	Gamma-Glutamyl Cycle for the biosynthesis and degradation of glutathione, including diseases	aboutDisease	doid	583	hemolytic anemia	manual	wikipathways
+wikipathways	WP4584	Biomarkers for pyrimidine metabolism disorders	aboutDisease	doid	14218	dihydropyrimidine dehydrogenase deficiency	manual	wikipathways
+wikipathways	WP4584	Biomarkers for pyrimidine metabolism disorders	aboutDisease	doid	0050832	pyrimidine metabolic disorder	manual	wikipathways
+wikipathways	WP4584	Biomarkers for pyrimidine metabolism disorders	aboutDisease	doid	0050833	orotic aciduria	manual	wikipathways
+wikipathways	WP4655	Cytosolic DNA-sensing pathway	aboutDisease	doid	104	bacterial infectious disease	manual	wikipathways
+wikipathways	WP4655	Cytosolic DNA-sensing pathway	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4838	Regucalcin in proximal tubule epithelial kidney cells	aboutDisease	doid	1074	kidney failure	manual	wikipathways
+wikipathways	WP4838	Regucalcin in proximal tubule epithelial kidney cells	aboutDisease	doid	557	kidney disease	manual	wikipathways
+wikipathways	WP4877	Host-pathogen interaction of human corona viruses - MAPK signaling	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4877	Host-pathogen interaction of human corona viruses - MAPK signaling	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP4884	Pathogenesis of SARS-CoV-2 Mediated by nsp9-nsp10 Complex	aboutDisease	doid	2945	severe acute respiratory syndrome	manual	wikipathways
+wikipathways	WP4884	Pathogenesis of SARS-CoV-2 Mediated by nsp9-nsp10 Complex	aboutDisease	doid	934	viral infectious disease	manual	wikipathways
+wikipathways	WP706	Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways	aboutDisease	doid	9007	sudden infant death syndrome	manual	wikipathways

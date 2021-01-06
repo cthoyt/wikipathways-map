@@ -4,6 +4,9 @@ This repository contains several python scripts to build
 a network of relations between WikiPathways pathways and
 external vocabularies.
 
+Presentation given to WikiPathways Developer Conference Call
+on January 6th, 2021: http://bit.ly/3neYZ5O
+
 ## Data
 
 | File | Description |

@@ -42,4 +42,4 @@ def iterate_compath_mappings() -> Iterable[MappingTuple]:
 
 
 if __name__ == '__main__':
-    write(iterate_compath_mappings(), 'compath.tsv')
+    write(iterate_compath_mappings(), 'compath_subset.tsv')

@@ -2,12 +2,13 @@
 
 """Generate orthologous relations based on lexical matching."""
 
+import itertools as itt
 from typing import Iterable
 
 from biomappings.resources import MappingTuple
 from biomappings.utils import get_script_url
 from gilda.process import normalize
-from tqdm.contrib.itertools import product
+from tqdm import tqdm
 
 import pyobo
 from utils import write
@@ -20,11 +21,10 @@ def iterate_orthologous_lexical_matches(prefix) -> Iterable[MappingTuple]:
     provenance = get_script_url(__file__)
 
     count = 0
-    it = product(names.items(), names.items(), unit_scale=True, desc=f'matching {prefix}')
+    it = itt.combinations(names.items(), r=2)
+    it = tqdm(it, total=len(names) * (len(names) - 1) / 2, unit_scale=True)
     for (source_id, source_name), (target_id, target_name) in it:
-        if species[source_id] == species[target_id]:
-            continue
-        if source_id > target_id:  # make canonical order
+        if source_id == target_id or species[source_id] == species[target_id]:
             continue
         if _lexical_exact_match(source_name, target_name):
             count += 1

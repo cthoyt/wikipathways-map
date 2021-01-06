@@ -26,7 +26,7 @@ def iterate_compath_mappings() -> Iterable[MappingTuple]:
             source_id = source_id.removeprefix('path:')
         if target_prefix == 'kegg':
             target_prefix = 'kegg.pathway'
-            target_id = source_id.removeprefix('path:')
+            target_id = target_id.removeprefix('path:')
         if source_prefix == 'wikipathways' or target_prefix == 'wikipathways':
             yield MappingTuple(
                 source_prefix,

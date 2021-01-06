@@ -22,7 +22,7 @@ from utils import RESOURCES
 @verbose_option
 def main():
     dfs = [
-        pd.read_csv(os.path.join(RESOURCES, name), sep='\t')
+        pd.read_csv(os.path.join(RESOURCES, name), sep='\t', dtype=str)
         for name in os.listdir(RESOURCES)
         if name.endswith('.tsv')
     ]

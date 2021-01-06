@@ -20,6 +20,7 @@ external vocabularies.
 - Data from ComPath are licensed under the MIT License
 - Data from WikiPathways are licensed under the CC-0 license
 - Original data in this repo are licensed under the CC-0 license
+- Code in this repo is licensed under the MIT License
 
 ## Visualization
 

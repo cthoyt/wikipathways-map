@@ -1,11 +1,9 @@
 # wikipathways-map
 
-This repository contains several python scripts to build
-a network of relations between WikiPathways pathways and
+This repository contains several python scripts to build a network of relations between WikiPathways pathways and
 external vocabularies.
 
-Presentation given to WikiPathways Developer Conference Call
-on January 6th, 2021: http://bit.ly/3neYZ5O
+Presentation given to WikiPathways Developer Conference Call on January 6th, 2021: http://bit.ly/3neYZ5O
 
 ## Data
 
@@ -34,3 +32,8 @@ The network can be viewed on [NDEx](https://public.ndexbio.org/viewer/networks/2
 - [WikiPathways](https://www.wikidata.org/)
 - [BioMappings](https://github.com/biomappings/biomappings)
 - [ComPath](https://github.com/compath/compath-resources)
+
+## Build
+
+The code can be run with `tox` based on the `tox.ini` file to automatically acquire, build, and upload the resources to
+NDEx.

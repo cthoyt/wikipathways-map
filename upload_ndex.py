@@ -6,8 +6,10 @@
 import itertools as itt
 import os
 
+import click
 import pandas as pd
 from biomappings.utils import MiriamValidator
+from more_click import verbose_option
 from ndex2 import NiceCXBuilder
 from tqdm import tqdm
 
@@ -16,6 +18,8 @@ import pystow
 from utils import RESOURCES
 
 
+@click.command()
+@verbose_option
 def main():
     dfs = [
         pd.read_csv(os.path.join(RESOURCES, name), sep='\t')
@@ -62,12 +66,16 @@ def upload(df: pd.DataFrame):
             tqdm.write(f'no name for {prefix}:{identifier}')
             label = f'{prefix}:{identifier}'
 
-        curie_to_id[prefix, identifier] = cx.add_node(name=label, represents=f'{prefix}:{identifier}')
-        cx.add_node_attribute(curie_to_id[prefix, identifier], 'database', prefix)
-        cx.add_node_attribute(curie_to_id[prefix, identifier], 'identifier', str(identifier))
-        if prefix not in {'ncbigene', 'doid', 'pw', 'go', 'mesh', 'efo'}:
-            species = pyobo.get_species(prefix, identifier)
-            cx.add_node_attribute(curie_to_id[prefix, identifier], 'species', f'ncbitaxon:{species}')
+        node = curie_to_id[prefix, identifier] = cx.add_node(name=label, represents=f'{prefix}:{identifier}')
+        cx.add_node_attribute(node, 'database', prefix)
+        cx.add_node_attribute(node, 'identifier', str(identifier))
+        if prefix not in {'doid', 'pw', 'go', 'mesh', 'efo'}:
+            ncbitaxon_id = pyobo.get_species(prefix, identifier)
+            if ncbitaxon_id is not None:
+                cx.add_node_attribute(node, 'species', f'ncbitaxon:{ncbitaxon_id}')
+                ncbitaxon_name = pyobo.get_name('ncbitaxon', ncbitaxon_id)
+                if ncbitaxon_name is not None:
+                    cx.add_node_attribute(node, 'speciesName', ncbitaxon_name)
 
     it = tqdm(
         df.values,

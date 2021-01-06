@@ -56,13 +56,15 @@ def upload(df: pd.DataFrame):
         df[['target prefix', 'target identifier', 'target name']].values,
     )))
     for prefix, identifier, name in tqdm(curies, desc='Adding nodes', unit_scale=True, unit='node'):
-        if not name or name == 'None':
+        if name and name != 'None':
+            label = f'{name} ({prefix}:{identifier})'
+        else:
             tqdm.write(f'no name for {prefix}:{identifier}')
-            name = f'{prefix}:{identifier}'
+            label = f'{prefix}:{identifier}'
 
-        curie_to_id[prefix, identifier] = cx.add_node(name=name, represents=f'{prefix}:{identifier}')
+        curie_to_id[prefix, identifier] = cx.add_node(name=label, represents=f'{prefix}:{identifier}')
         cx.add_node_attribute(curie_to_id[prefix, identifier], 'database', prefix)
-        cx.add_node_attribute(curie_to_id[prefix, identifier], 'identifier', identifier)
+        cx.add_node_attribute(curie_to_id[prefix, identifier], 'identifier', str(identifier))
         if prefix not in {'ncbigene', 'doid', 'pw', 'go', 'mesh', 'efo'}:
             species = pyobo.get_species(prefix, identifier)
             cx.add_node_attribute(curie_to_id[prefix, identifier], 'species', f'ncbitaxon:{species}')

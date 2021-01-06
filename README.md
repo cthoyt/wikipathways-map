@@ -19,18 +19,18 @@ on January 6th, 2021: http://bit.ly/3neYZ5O
 
 ## Licensing
 
-- Data from Biomappings are licensed under the CC-0 license
-- Data from ComPath are licensed under the MIT License
-- Data from WikiPathways are licensed under the CC-0 license
-- Original data in this repo are licensed under the CC-0 license
-- Code in this repo is licensed under the MIT License
+- Data from Biomappings are licensed under the CC-0 license.
+- Data from ComPath are licensed under the MIT License.
+- Data from WikiPathways are licensed under the CC-0 license.
+- Original data in this repo are licensed under the CC-0 license.
+- Code in this repo is licensed under the MIT License.
 
 ## Visualization
 
-The network can be viewed on [NDEx](https://public.ndexbio.org/viewer/networks/2b3ed6af-5031-11eb-9e72-0ac135e8bacf)
+The network can be viewed on [NDEx](https://public.ndexbio.org/viewer/networks/2b3ed6af-5031-11eb-9e72-0ac135e8bacf).
 
 ## Sources
 
-- WikiPathways
+- [WikiPathways](https://www.wikidata.org/)
 - [BioMappings](https://github.com/biomappings/biomappings)
 - [ComPath](https://github.com/compath/compath-resources)
